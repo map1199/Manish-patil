@@ -1,0 +1,1541 @@
+order_id,order_date,customer_name,city,product,category,quantity,unit_price
+1450,2025-09-05,Riya Jadhav,Nagpur,Desk,Furniture,2,9500.0
+1583,2025-10-16,Rohan Pawar,Nanded,Headphones,Electronics,3,2500.0
+1915,2025-06-30,Karan Jadhav,Nagpur,Backpack,Accessories,4,1800.0
+1223,2025-02-28,Isha Kulkarni,Nashik,Notebook,Stationery,5,120.0
+2148,2025-03-24,Omkar Patil,Nashik,Desk,Furniture,4,9500.0
+1132,2025-06-24,Sneha Patil,Nagpur,Backpack,Accessories,4,1800.0
+1333,2025-09-11,Yash Pawar,Nagpur,Desk,Furniture,5,9500.0
+1778,2025-02-22,Pooja More,Aurangabad,Notebook,Stationery,3,120.0
+1721,2025-01-13,Neha Joshi,PUNE,Smartphone,Electronics,1,22000.0
+1040,2025-08-05,Sneha More,Nashik,Headphones,Electronics,2,2500.0
+1784,2025-12-05,Rohan Shinde,Nagpur,Smartphone,Electronics,1,22000.0
+1346,2025-03-29,Pooja Shinde,Mumbai,Backpack,Accessories,2,1800.0
+1861,2025-02-23,Isha Joshi,Pune,Smartphone,Electronics,4,22000.0
+1996,2025-05-13,Pooja Jadhav,Mumbai,Notebook,Stationery,5,120.0
+1706,2025-01-02,  Karan Jadhav  ,Aurangabad,Office Chair,Furniture,3,7500.0
+1533,2025-11-10,Yash Patil,Nagpur,Backpack,Accessories,2,1800.0
+2075,2025-04-18,Yash Jadhav,Pune,Headphones,Electronics,3,2500.0
+2200,2025-03-16,Karan Pawar,Aurangabad,Laptop,Electronics,2,55000.0
+1690,2025-03-09,Aarav Joshi,Pune,Smartphone,Electronics,4,22000.0
+2144,2025-08-29,Pooja Patil,Nashik,Laptop,Electronics,5,55000.0
+1677,2025-08-03,Riya Deshmukh,Nagpur,Headphones,Electronics,1,2500.0
+2059,2025-07-30,Pooja Jadhav,Pune,Desk,Furniture,1,9500.0
+2390,2025-01-19,Pooja Jadhav,,Smartphone,Electronics,2,22000.0
+2463,2025-05-03,Karan Patil,Nagpur,Backpack,Accessories,5,1800.0
+1181,2025-07-15,Yash Jadhav,Nanded,Office Chair,Furniture,3,7500.0
+1758,2025-11-12,Isha Kulkarni,Pune,Office Chair,Furniture,2,7500.0
+2302,2025-10-18,Riya Patil,Aurangabad,Headphones,Electronics,5,2500.0
+2001,2025-11-24,Rohan More,Nagpur,Laptop,Electronics,1,55000.0
+1336,2025-07-05,Pooja More,Pune,Office Chair,Furniture,4,7500.0
+1305,2025-10-15,Riya More,Nagpur,Pen Pack,Stationery,4,80.0
+2304,31/02/2025,Isha Pawar,Nashik,Office Chair,Furniture,2,7500.0
+2280,2025-05-01,Neha Kulkarni,Mumbai,Pen Pack,Stationery,1,80.0
+1751,2025-12-18,  Isha Deshmukh  ,Nagpur,Desk,Furniture,4,9500.0
+2377,2025-07-05,Sneha More,Aurangabad,Office Chair,Furniture,4,7500.0
+2379,2025-04-14,Omkar Shinde,Pune,Smartphone,Electronics,2,22000.0
+1237,2025-08-12,Aarav Pawar,Pune,Laptop,Electronics,3,55000.0
+1310,2025-03-04,Rohan Joshi,Mumbai,Office Chair,Furniture,4,7500.0
+1774,2025-03-23,Sneha Joshi,Aurangabad,Backpack,Accessories,4,1800.0
+1629,2025-07-10,Aarav Jadhav,Nagpur,Desk,Furniture,3,9500.0
+1272,2025-08-12,Riya Kulkarni,Nashik,Headphones,Electronics,3,2500.0
+1852,2025-12-11,Pooja Pawar,Aurangabad,Notebook,Stationery,4,120.0
+2094,2025-04-22,Yash Deshmukh,Nashik,Pen Pack,Stationery,3,80.0
+1479,2025-10-28,Riya Jadhav,NAGPUR,Pen Pack,Stationery,4,80.0
+2010,2025-06-07,Karan Patil,Nagpur,Smartphone,Electronics,4,22000.0
+1325,2025-06-24,Yash Joshi,Nagpur,Office Chair,Furniture,3,7500.0
+1661,2025-11-21,Aarav Patil,Nashik,Notebook,Stationery,3,120.0
+1108,2025-12-25,Isha Jadhav,Mumbai,Backpack,Accessories,5,1800.0
+1793,2025-04-28,Neha Shinde,Mumbai,Smartphone,Electronics,1,22000.0
+1982,2025-08-17,Isha Joshi,Pune,Desk,Furniture,2,9500.0
+1186,2025-03-09,Riya More,Nagpur,Notebook,Stationery,4,120.0
+1785,2025-12-12,Omkar Pawar,Mumbai,Backpack,Accessories,5,1800.0
+2142,2025-08-08,Rohan Kulkarni,Nagpur,Laptop,Electronics,4,55000.0
+1078,2025-06-17,Neha More,Nanded,Pen Pack,Stationery,2,80.0
+2024,2025-03-29,Riya More,Nanded,Office Chair,Furniture,3,7500.0
+1259,2025-06-08,Pooja Shinde,Aurangabad,Smartphone,Electronics,3,22000.0
+2486,2025-10-12,Riya Joshi,Nagpur,Laptop,Electronics,4,55000.0
+1443,2025-04-06,Neha Pawar,Nanded,Smartphone,Electronics,5,22000.0
+1903,2025-06-15,Neha Jadhav,Pune,Desk,Furniture,1,9500.0
+1217,2025-12-07,Isha Jadhav,Mumbai,Notebook,Stationery,4,120.0
+1627,2025-07-26,Sneha Shinde,Pune,Desk,Furniture,4,9500.0
+2219,2025-10-24,Karan Jadhav,Mumbai,Desk,Furniture,5,9500.0
+1698,2025-06-19,Isha Patil,Nanded,Office Chair,Furniture,2,7500.0
+1353,2025-10-13,Isha Kulkarni,,Desk,Furniture,3,9500.0
+2123,2025-11-10,Riya More,Nagpur,Backpack,Accessories,4,1800.0
+1873,2025-11-27,Neha Shinde,Mumbai,Headphones,Electronics,3,2500.0
+1511,2025-12-02,Riya Deshmukh,Pune,Pen Pack,Stationery,2,80.0
+1060,2025-11-21,Neha More,Pune,Smartphone,Electronics,1,22000.0
+1258,2025-06-29,Isha Shinde,Mumbai,Headphones,Electronics,5,2500.0
+1617,2025-10-02,Omkar Kulkarni,Nashik,Pen Pack,Stationery,3,80.0
+1344,2025-10-26,Isha Patil,Nanded,Pen Pack,Stationery,4,80.0
+2113,2025-10-30,Riya Deshmukh,Pune,Headphones,Electronics,4,2500.0
+1419,2025-09-26,Aarav Deshmukh,Aurangabad,Laptop,Electronics,1,55000.0
+2336,2025-02-16,Neha Jadhav,Nanded,Pen Pack,Stationery,2,80.0
+1765,2025-04-24,Neha More,Nagpur,Office Chair,Furniture,2,7500.0
+2384,2025-09-22,Riya Deshmukh,Nagpur,Laptop,Electronics,3,55000.0
+1664,2025-07-16,  Aarav Patil  ,Nanded,Backpack,Accessories,2,1800.0
+1167,2025-02-21,Omkar Deshmukh,Nanded,Notebook,Stationery,4,120.0
+1256,2025-11-20,Karan Deshmukh,Nagpur,Laptop,Electronics,1,55000.0
+1911,2025-04-29,Pooja Shinde,Mumbai,Smartphone,Electronics,2,22000.0
+2462,2025-10-31,Karan More,Mumbai,Laptop,Electronics,1,55000.0
+1260,2025-12-10,Pooja Deshmukh,Aurangabad,Headphones,Electronics,4,2500.0
+1161,2025-02-05,Isha Shinde,Nagpur,Headphones,Electronics,5,2500.0
+1347,2025-10-21,Riya Kulkarni,Pune,Laptop,Electronics,4,55000.0
+1069,2025-06-29,Isha Kulkarni,Mumbai,Backpack,Accessories,1,1800.0
+1675,2025-12-26,Sneha Kulkarni,Aurangabad,Backpack,Accessories,1,1800.0
+1006,2025-04-21,Karan Deshmukh,Pune,Headphones,Electronics,4,2500.0
+2451,2025-02-26,Isha Pawar,Mumbai,Pen Pack,Stationery,5,80.0
+2488,2025-04-12,Isha Joshi,Mumbai,Office Chair,Furniture,3,7500.0
+2153,2025-01-27,Riya Shinde,Nagpur,Notebook,Stationery,4,120.0
+1135,2025-10-13,Neha Kulkarni,Nanded,Smartphone,Electronics,4,22000.0
+2065,2025-10-21,Karan Shinde,Nagpur,Backpack,Accessories,3,1800.0
+2444,2025-10-03,Riya Deshmukh,Nanded,Pen Pack,Stationery,1,80.0
+1971,2025-01-21,Pooja Shinde,Nanded,Pen Pack,Stationery,1,80.0
+1352,2025-12-13,Isha Pawar,Mumbai,Notebook,Stationery,2,120.0
+2281,2025-04-20,Isha Pawar,Nashik,Headphones,Electronics,3,2500.0
+2093,2025-11-27,Omkar Deshmukh,Mumbai,Headphones,Electronics,5,2500.0
+2250,2025-11-17,Karan Shinde,Pune,Laptop,Electronics,4,55000.0
+2140,2025-10-23,Pooja Kulkarni,Pune,Headphones,Electronics,4,2500.0
+1334,2025-02-25,Neha Joshi,Nagpur,Laptop,Electronics,3,55000.0
+1611,2025-06-07,Neha Pawar,Nashik,Smartphone,Electronics,3,22000.0
+2151,2025-06-01,Neha More,Aurangabad,Laptop,Electronics,5,55000.0
+2412,2025-10-17,Omkar Jadhav,Nashik,Desk,Furniture,4,9500.0
+1318,2025-05-09,Rohan More,MUMBAI,Smartphone,Electronics,3,22000.0
+2356,2025-03-20,Omkar Pawar,Nashik,Headphones,Electronics,1,2500.0
+1395,2025-04-16,Riya Deshmukh,Nanded,Office Chair,Furniture,1,7500.0
+1590,2025-11-29,Karan Joshi,Aurangabad,Backpack,Accessories,5,1800.0
+1539,2025-07-08,Sneha More,Pune,Headphones,Electronics,5,2500.0
+1798,2025-04-28,Omkar Shinde,Nagpur,Pen Pack,Stationery,5,80.0
+2180,2025-11-13,Rohan Pawar,Nagpur,Pen Pack,Stationery,1,80.0
+1541,2025-01-24,Omkar Jadhav,Nashik,Office Chair,Furniture,2,7500.0
+2430,2025-06-12,Omkar Shinde,Pune,Laptop,Electronics,4,55000.0
+2038,2025-04-17,Yash Shinde,Nashik,Notebook,Stationery,5,120.0
+1942,2025-06-19,Rohan Kulkarni,Mumbai,Laptop,Electronics,5,55000.0
+1881,2025-08-26,Aarav Jadhav,Pune,Notebook,Stationery,2,120.0
+1696,2025-10-13,Yash Patil,Pune,Headphones,Electronics,-1,2500.0
+1703,2025-09-18,Pooja Kulkarni,Aurangabad,Desk,Furniture,4,9500.0
+1822,2025-10-03,Yash More,Aurangabad,Desk,Furniture,4,9500.0
+1856,2025-06-12,Isha More,Nanded,Notebook,Stationery,4,120.0
+1592,2025-03-07,Sneha Patil,Aurangabad,Desk,Furniture,5,9500.0
+1926,2025-02-10,Aarav Jadhav,Nagpur,Pen Pack,Stationery,4,80.0
+2389,2025-12-24,Karan Shinde,Mumbai,Backpack,Accessories,3,1800.0
+1864,2025-09-01,Omkar More,,Notebook,Stationery,4,120.0
+1978,2025-02-16,Riya Pawar,Aurangabad,Smartphone,Electronics,3,22000.0
+1577,2025-07-18,Isha Joshi,Pune,Notebook,Stationery,3,120.0
+1123,2025-12-21,Rohan More,Aurangabad,Pen Pack,Stationery,5,80.0
+1003,2025-01-16,Riya Kulkarni,Mumbai,Laptop,Electronics,5,55000.0
+2239,2025-03-20,Isha Deshmukh,Pune,Notebook,Stationery,5,120.0
+2060,2025-12-27,Karan Deshmukh,Nanded,Backpack,Accessories,4,1800.0
+1910,2025-06-05,Riya Kulkarni,Nanded,Smartphone,Electronics,1,22000.0
+1950,2025-06-20,Omkar Shinde,,Desk,Furniture,2,9500.0
+2354,2025-11-17,Pooja Kulkarni,Pune,Pen Pack,Stationery,3,80.0
+1761,2025-12-10,Rohan Deshmukh,Nagpur,Headphones,Electronics,5,2500.0
+2187,2025-04-21,Omkar Shinde,Nashik,Smartphone,Electronics,3,22000.0
+2122,2025-05-03,Sneha Patil,Nanded,Pen Pack,Stationery,-1,80.0
+2064,2025-10-01,Aarav Pawar,Nashik,Notebook,Stationery,5,120.0
+2220,2025-09-16,Yash Deshmukh,Pune,Office Chair,Furniture,5,7500.0
+1438,2025-07-02,  Pooja Shinde  ,Nashik,Office Chair,Furniture,2,7500.0
+1723,2025-02-01,Isha Kulkarni,Nanded,Headphones,Electronics,1,2500.0
+1430,2025-11-27,Karan Deshmukh,Nanded,Pen Pack,Stationery,1,80.0
+1293,2025-09-12,Omkar Jadhav,Nanded,Headphones,Electronics,3,2500.0
+1904,2025-01-23,Sneha Joshi,Pune,Smartphone,Electronics,2,22000.0
+1064,2025-06-07,Karan Patil,Nagpur,Laptop,Electronics,2,55000.0
+1508,2025-04-14,Sneha More,Mumbai,Pen Pack,Stationery,3,80.0
+1794,2025-04-14,Pooja Shinde,Mumbai,Laptop,Electronics,5,55000.0
+1866,2025-11-20,Yash Shinde,Nanded,Backpack,Accessories,5,1800.0
+2021,2025-08-14,Riya More,Mumbai,Notebook,Stationery,2,120.0
+1543,2025-08-02,Karan More,Pune,Office Chair,Furniture,5,7500.0
+1110,2025-10-22,Neha Shinde,Aurangabad,Desk,Furniture,2,9500.0
+1056,2025-12-08,Pooja More,Aurangabad,Laptop,Electronics,1,55000.0
+1552,2025-03-14,Isha Deshmukh,Pune,Laptop,Electronics,2,55000.0
+1569,2025-03-28,Yash Shinde,Aurangabad,Laptop,Electronics,-1,
+2487,2025-11-20,Yash Jadhav,Pune,Office Chair,Furniture,1,7500.0
+1462,2025-10-06,Aarav Jadhav,Aurangabad,Pen Pack,Stationery,5,80.0
+2388,2025-12-25,Neha Pawar,Aurangabad,Headphones,Electronics,2,2500.0
+1879,2025-01-05,Rohan Deshmukh,Mumbai,Backpack,Accessories,1,
+2178,2025-10-17,Omkar Jadhav,Aurangabad,Headphones,Electronics,1,2500.0
+2317,2025-11-10,Isha Jadhav,Nashik,Desk,Furniture,2,9500.0
+1513,2025-01-05,Karan Deshmukh,Nashik,Laptop,Electronics,2,55000.0
+1800,2025-05-26,Yash Shinde,Nagpur,Smartphone,Electronics,2,22000.0
+2413,2025-03-12,Pooja Pawar,Nashik,Headphones,Electronics,4,2500.0
+1674,2025-08-16,Neha Deshmukh,Nanded,Pen Pack,Stationery,3,80.0
+1423,2025-01-07,Aarav More,Nanded,Pen Pack,Stationery,3,80.0
+1754,2025-12-13,Karan Patil,Nanded,Desk,Furniture,5,9500.0
+2136,2025-08-23,Rohan Jadhav,Nagpur,Headphones,Electronics,2,2500.0
+2274,2025-12-04,Pooja Joshi,Aurangabad,Desk,Furniture,1,9500.0
+2395,2025-08-21,Karan Kulkarni,Aurangabad,Laptop,Electronics,5,55000.0
+2224,2025-04-20,Pooja Kulkarni,Nashik,Pen Pack,Stationery,1,80.0
+1763,2025-12-22,Yash Joshi,Nanded,Desk,Furniture,5,9500.0
+1415,2025-06-01,Sneha Kulkarni,Nagpur,Pen Pack,Stationery,2,
+1622,2025-10-10,Karan More,Nanded,Pen Pack,Stationery,4,80.0
+2079,2025-07-15,Karan Patil,Pune,Backpack,Accessories,5,1800.0
+1463,2025-02-25,Rohan Jadhav,Mumbai,Smartphone,Electronics,5,22000.0
+1324,2025-03-22,Omkar Shinde,Nashik,Laptop,Electronics,4,55000.0
+2166,2025-07-30,Yash Jadhav,Aurangabad,Notebook,Stationery,3,120.0
+1515,2025-06-10,Karan More,Mumbai,Smartphone,Electronics,4,22000.0
+2369,2025-06-05,Rohan Kulkarni,Nanded,Backpack,Accessories,1,1800.0
+1248,2025-10-30,Aarav Jadhav,Nanded,Desk,Furniture,1,9500.0
+1667,2025-09-15,  Yash More  ,Mumbai,Pen Pack,Stationery,1,80.0
+2386,2025-10-22,Aarav More,Nashik,Headphones,Electronics,4,2500.0
+1602,2025-02-07,Karan Joshi,Nashik,Smartphone,Electronics,2,22000.0
+2231,2025-03-03,Sneha Shinde,Nashik,Smartphone,Electronics,5,22000.0
+2293,2025-11-25,Sneha Pawar,Aurangabad,Laptop,Electronics,2,55000.0
+2200,2025-03-16,Karan Pawar,Aurangabad,Laptop,Electronics,2,55000.0
+2478,2025-01-30,Rohan Patil,Nashik,Headphones,Electronics,3,2500.0
+1713,2025-03-07,Riya Shinde,Aurangabad,Headphones,Electronics,5,2500.0
+1304,2025-02-28,Aarav Joshi,Nashik,Office Chair,Furniture,5,7500.0
+1081,2025-08-09,Yash Jadhav,Nashik,Office Chair,Furniture,4,7500.0
+1314,31/02/2025,Riya Pawar,Nashik,Headphones,Electronics,5,2500.0
+1332,2025-05-04,Rohan Jadhav,Pune,Backpack,Accessories,1,1800.0
+1234,2025-04-19,Sneha More,Nagpur,Desk,Furniture,3,9500.0
+2422,2025-08-12,Sneha Shinde,Pune,Notebook,Stationery,5,120.0
+2449,2025-04-24,Rohan Pawar,Nagpur,Desk,Furniture,1,9500.0
+1302,2025-07-09,Karan Pawar,Pune,Backpack,Accessories,5,1800.0
+2028,2025-06-20,  Rohan Deshmukh  ,Nashik,Desk,Furniture,5,9500.0
+1708,2025-07-29,Riya More,Nanded,Headphones,Electronics,2,
+2360,2025-09-06,Pooja Pawar,Mumbai,Pen Pack,Stationery,1,80.0
+1532,2025-01-30,Rohan Deshmukh,Nashik,Office Chair,Furniture,1,7500.0
+1851,2025-10-23,Yash Joshi,Nagpur,Office Chair,Furniture,3,7500.0
+1007,2025-07-03,Karan More,Pune,Smartphone,Electronics,4,22000.0
+1846,2025-11-19,Pooja Jadhav,Nashik,Headphones,Electronics,3,2500.0
+1149,31/02/2025,Omkar Deshmukh,Nashik,Pen Pack,Stationery,3,80.0
+1775,2025-01-21,Rohan Pawar,,Notebook,Stationery,1,120.0
+1829,2025-10-21,  Isha Joshi  ,Aurangabad,Office Chair,Furniture,2,7500.0
+1022,2025-12-15,Riya More,Aurangabad,Laptop,Electronics,3,55000.0
+1722,2025-05-17,Sneha More,Aurangabad,Office Chair,Furniture,3,7500.0
+1998,2025-12-29,Isha Kulkarni,Pune,Office Chair,Furniture,1,7500.0
+1850,2025-06-26,Aarav Shinde,Pune,Desk,Furniture,3,9500.0
+1788,2025-10-21,Sneha Patil,Mumbai,Laptop,Electronics,3,55000.0
+1591,2025-04-25,Yash Joshi,Nashik,Notebook,Stationery,3,120.0
+1921,2025-02-18,Aarav Pawar,Nagpur,Headphones,Electronics,2,2500.0
+1748,2025-06-11,Aarav Shinde,Aurangabad,Pen Pack,Stationery,1,80.0
+1888,2025-12-08,Rohan Deshmukh,Mumbai,Laptop,Electronics,4,55000.0
+1486,2025-03-11,Rohan Shinde,Nanded,Backpack,Accessories,5,1800.0
+1542,2025-01-19,Pooja Shinde,Mumbai,Headphones,Electronics,3,2500.0
+1917,2025-07-12,Pooja More,Nagpur,Office Chair,Furniture,4,7500.0
+1688,2025-06-25,Sneha Deshmukh,Nashik,Notebook,Stationery,4,120.0
+1959,2025-01-16,Karan Shinde,Nashik,Headphones,Electronics,3,2500.0
+2466,2025-03-07,Aarav Pawar,Pune,Smartphone,Electronics,3,22000.0
+1902,2025-04-08,Pooja Pawar,Nanded,Pen Pack,Stationery,2,80.0
+1115,2025-08-11,Sneha More,Nanded,Headphones,Electronics,5,2500.0
+2135,2025-11-09,Omkar Joshi,Nashik,Office Chair,Furniture,3,7500.0
+2096,2025-01-10,Omkar Joshi,Aurangabad,Backpack,Accessories,1,1800.0
+2265,2025-01-10,Pooja Joshi,Nanded,Headphones,Electronics,4,2500.0
+2227,2025-03-01,Neha More,Nashik,Backpack,Accessories,5,1800.0
+1571,2025-04-06,Isha More,Nashik,Office Chair,Furniture,2,7500.0
+1296,2025-08-17,Yash Shinde,Mumbai,Desk,Furniture,4,9500.0
+2366,2025-08-02,Karan Pawar,Mumbai,Pen Pack,Stationery,5,80.0
+1693,2025-07-30,Omkar Patil,Pune,Smartphone,Electronics,3,22000.0
+1742,2025-09-21,Riya Deshmukh,Mumbai,Notebook,Stationery,5,120.0
+1845,2025-08-31,Aarav Joshi,Nashik,Headphones,Electronics,4,2500.0
+2168,2025-06-06,Sneha More,Mumbai,Headphones,Electronics,4,2500.0
+1338,2025-07-11,Karan Jadhav,Mumbai,Pen Pack,Stationery,2,80.0
+1290,2025-10-06,Omkar More,Pune,Pen Pack,Stationery,2,80.0
+2381,2025-08-01,Karan Kulkarni,Mumbai,Notebook,Stationery,5,120.0
+1505,2025-05-26,Karan Joshi,Nanded,Notebook,Stationery,4,120.0
+1993,2025-03-04,Isha Jadhav,Nanded,Headphones,Electronics,4,2500.0
+2370,2025-07-03,Isha Jadhav,Aurangabad,Laptop,Electronics,2,55000.0
+1054,2025-06-28,Riya Kulkarni,Nagpur,Headphones,Electronics,3,2500.0
+2498,2025-04-18,Riya Pawar,Aurangabad,Backpack,Accessories,5,1800.0
+1604,2025-12-27,Aarav Shinde,Aurangabad,Backpack,Accessories,2,1800.0
+1061,2025-03-08,Isha Joshi,Aurangabad,Notebook,Stationery,4,120.0
+2313,2025-10-25,Sneha More,Mumbai,Laptop,Electronics,5,55000.0
+2081,2025-02-20,Isha Shinde,Nashik,Desk,Furniture,2,9500.0
+2303,2025-08-21,Omkar Deshmukh,Mumbai,Pen Pack,Stationery,2,80.0
+2097,2025-12-07,Neha More,Mumbai,Laptop,Electronics,3,55000.0
+1136,2025-08-15,Isha Shinde,Nagpur,Backpack,Accessories,5,1800.0
+1494,2025-04-18,Yash Jadhav,Aurangabad,Office Chair,Furniture,5,7500.0
+1936,2025-02-27,Neha Shinde,Nagpur,Smartphone,Electronics,3,22000.0
+2255,2025-05-17,Aarav Pawar,Nanded,Pen Pack,Stationery,1,80.0
+2465,2025-02-13,Aarav Patil,Nashik,Smartphone,Electronics,3,22000.0
+2057,2025-07-16,Karan Kulkarni,Mumbai,Backpack,Accessories,4,1800.0
+1058,2025-05-20,Isha Kulkarni,Aurangabad,Headphones,Electronics,3,2500.0
+2382,2025-04-27,Sneha Shinde,Nashik,Pen Pack,Stationery,4,80.0
+1357,2025-08-15,Isha Pawar,Mumbai,Notebook,Stationery,2,120.0
+1133,2025-02-03,Neha Pawar,Pune,Smartphone,Electronics,5,22000.0
+1638,2025-11-01,Omkar Joshi,Nashik,Backpack,Accessories,5,1800.0
+2149,2025-12-27,Neha Joshi,Nagpur,Headphones,Electronics,4,2500.0
+1575,2025-11-19,Pooja Patil,Nashik,Office Chair,Furniture,3,7500.0
+1282,2025-05-04,Yash Shinde,Mumbai,Notebook,Stationery,1,120.0
+1197,2025-10-28,Sneha Shinde,Aurangabad,Pen Pack,Stationery,1,80.0
+1434,2025-06-03,Sneha Kulkarni,Nanded,Smartphone,Electronics,4,22000.0
+1735,2025-10-06,Pooja Shinde,Pune,Pen Pack,Stationery,3,80.0
+1869,2025-01-01,Pooja Joshi,Nagpur,Laptop,Electronics,3,
+1109,2025-03-25,Isha Deshmukh,Nanded,Smartphone,Electronics,1,22000.0
+1972,2025-05-30,Omkar Shinde,Nagpur,Office Chair,Furniture,3,7500.0
+2320,2025-03-25,Omkar Shinde,Pune,Desk,Furniture,4,9500.0
+1656,2025-08-26,Riya Pawar,Pune,Desk,Furniture,5,9500.0
+1073,2025-01-20,Riya Shinde,Nagpur,Desk,Furniture,3,9500.0
+2103,2025-07-16,Rohan More,Aurangabad,Laptop,Electronics,4,55000.0
+2108,2025-06-22,Aarav Shinde,Pune,Laptop,Electronics,2,55000.0
+2098,2025-10-22,Aarav Pawar,Nashik,Pen Pack,Stationery,4,80.0
+2260,2025-06-02,Yash Shinde,Mumbai,Laptop,Electronics,5,55000.0
+2467,2025-02-03,Riya Patil,Nanded,Pen Pack,Stationery,1,80.0
+2425,2025-06-07,Neha Joshi,Pune,Headphones,Electronics,5,2500.0
+2221,2025-09-28,Rohan Kulkarni,Nagpur,Laptop,Electronics,2,55000.0
+2345,2025-04-04,Neha Patil,Pune,Headphones,Electronics,4,2500.0
+1741,2025-09-07,Aarav More,Aurangabad,Backpack,Accessories,2,1800.0
+2358,2025-01-27,Karan Patil,Pune,Pen Pack,Stationery,4,80.0
+2095,2025-01-18,Riya Deshmukh,Nanded,Smartphone,Electronics,3,22000.0
+1743,2025-11-17,Riya Kulkarni,Aurangabad,Laptop,Electronics,2,55000.0
+1212,2025-02-11,Karan Joshi,Pune,Smartphone,Electronics,2,22000.0
+1218,2025-02-16,Riya Deshmukh,Nashik,Smartphone,Electronics,1,22000.0
+1011,2025-11-22,Karan Joshi,Nagpur,Backpack,Accessories,3,1800.0
+1171,2025-11-13,Riya Kulkarni,Aurangabad,Laptop,Electronics,3,55000.0
+1635,2025-01-30,Rohan Patil,Nashik,Office Chair,Furniture,1,7500.0
+2414,2025-06-16,Riya Shinde,NASHIK,Headphones,Electronics,2,2500.0
+1232,2025-12-14,Yash Pawar,Nanded,Desk,Furniture,3,9500.0
+2171,2025-04-04,Sneha Joshi,Mumbai,Desk,Furniture,2,9500.0
+2385,2025-03-26,Neha Patil,Nashik,Pen Pack,Stationery,1,80.0
+2291,2025-08-05,Riya Joshi,Aurangabad,Notebook,Stationery,3,120.0
+1487,2025-07-29,Omkar Shinde,Aurangabad,Backpack,Accessories,4,1800.0
+1327,2025-06-13,Rohan Pawar,Pune,Smartphone,Electronics,3,22000.0
+2166,2025-07-30,Yash Jadhav,Aurangabad,Notebook,Stationery,3,120.0
+2088,2025-02-26,Sneha More,NAGPUR,Headphones,Electronics,4,2500.0
+1984,2025-09-13,Pooja Patil,Nanded,Backpack,Accessories,4,1800.0
+2421,2025-07-25,Yash Patil,Nashik,Notebook,Stationery,1,120.0
+1490,2025-10-09,Pooja Deshmukh,Nanded,Backpack,Accessories,1,1800.0
+1146,2025-08-10,Karan More,Pune,Laptop,Electronics,1,55000.0
+1746,2025-01-28,Sneha More,Nanded,Smartphone,Electronics,1,22000.0
+2170,2025-03-27,Yash Joshi,Aurangabad,Backpack,Accessories,5,1800.0
+1619,2025-03-27,Rohan Kulkarni,,Headphones,Electronics,1,2500.0
+1474,2025-04-06,Neha Shinde,Pune,Headphones,Electronics,5,2500.0
+1089,2025-03-04,Omkar Joshi,Nashik,Office Chair,Furniture,5,7500.0
+1809,2025-03-24,Neha Patil,Pune,Laptop,Electronics,2,55000.0
+1952,2025-09-14,Isha Patil,Aurangabad,Office Chair,Furniture,3,7500.0
+1573,2025-07-30,Pooja Pawar,Pune,Backpack,Accessories,1,1800.0
+2062,2025-09-25,  Yash Deshmukh  ,Mumbai,Smartphone,Electronics,4,22000.0
+2355,2025-03-17,Omkar Shinde,Pune,Backpack,Accessories,1,1800.0
+1472,2025-05-05,Pooja Joshi,Nanded,Headphones,Electronics,2,2500.0
+1427,2025-12-23,Rohan More,Aurangabad,Office Chair,Furniture,1,7500.0
+1747,2025-05-13,Neha Shinde,Nashik,Office Chair,Furniture,4,7500.0
+1039,2025-05-08,Rohan Kulkarni,Nanded,Smartphone,Electronics,4,22000.0
+1545,2025-07-25,Riya Pawar,Nagpur,Laptop,Electronics,3,55000.0
+1151,2025-12-22,Omkar More,Aurangabad,Pen Pack,Stationery,4,80.0
+1220,31/02/2025,Riya Shinde,Nagpur,Notebook,Stationery,4,120.0
+1630,2025-09-09,Riya Kulkarni,Mumbai,Desk,Furniture,3,9500.0
+2315,2025-03-14,Isha Deshmukh,Nagpur,Pen Pack,Stationery,1,80.0
+1268,2025-08-25,Isha Shinde,Nanded,Backpack,Accessories,5,1800.0
+1238,2025-10-21,Neha Shinde,Nagpur,Pen Pack,Stationery,1,80.0
+2353,2025-04-18,Omkar Joshi,Aurangabad,Laptop,Electronics,2,55000.0
+1182,2025-01-12,Neha More,Pune,Desk,Furniture,5,9500.0
+2019,2025-01-12,Yash More,Aurangabad,Desk,Furniture,2,9500.0
+1322,2025-11-18,Pooja More,AURANGABAD,Backpack,Accessories,3,1800.0
+1046,2025-06-10,Aarav Patil,Nanded,Laptop,Electronics,4,55000.0
+2245,2025-06-09,Neha Pawar,Pune,Headphones,Electronics,5,2500.0
+2431,2025-07-28,Rohan Patil,Nagpur,Laptop,Electronics,5,55000.0
+1553,2025-12-25,Karan Pawar,Aurangabad,Pen Pack,Stationery,1,80.0
+1603,31/02/2025,Riya Jadhav,Nanded,Smartphone,Electronics,5,22000.0
+2340,2025-03-18,Sneha More,Mumbai,Desk,Furniture,5,9500.0
+2254,2025-01-20,Omkar Shinde,Nanded,Notebook,Stationery,5,120.0
+1368,2025-05-20,Rohan Deshmukh,Nagpur,Backpack,Accessories,2,1800.0
+1028,2025-02-13,Omkar Deshmukh,Nanded,Smartphone,Electronics,2,22000.0
+1247,2025-08-14,Riya Pawar,Nashik,Headphones,Electronics,3,2500.0
+1867,2025-06-27,Omkar Kulkarni,Pune,Desk,Furniture,4,9500.0
+2342,2025-09-20,Riya Shinde,Nashik,Laptop,Electronics,1,55000.0
+2419,2025-03-03,Pooja Joshi,Pune,Laptop,Electronics,3,55000.0
+2371,2025-09-15,Aarav Deshmukh,Nagpur,Headphones,Electronics,4,2500.0
+2387,2025-06-10,Karan Patil,Nagpur,Desk,Furniture,5,9500.0
+2217,2025-03-05,Yash Kulkarni,Nanded,Smartphone,Electronics,2,22000.0
+1733,2025-09-09,Yash Jadhav,Pune,Desk,Furniture,3,9500.0
+2237,2025-09-12,Rohan Joshi,Pune,Backpack,Accessories,1,1800.0
+1051,2025-05-03,Isha Shinde,Mumbai,Notebook,Stationery,3,120.0
+1345,2025-12-02,Yash Kulkarni,Aurangabad,Desk,Furniture,1,9500.0
+1432,2025-12-17,Isha Patil,Mumbai,Smartphone,Electronics,3,22000.0
+2119,2025-03-22,Aarav Pawar,Pune,Pen Pack,Stationery,1,80.0
+1455,2025-07-23,Karan More,Aurangabad,Headphones,Electronics,4,2500.0
+1459,2025-12-11,Omkar Joshi,Aurangabad,Pen Pack,Stationery,3,80.0
+1481,2025-03-02,Rohan More,Pune,Notebook,Stationery,2,120.0
+2473,2025-07-01,Neha Pawar,Aurangabad,Desk,Furniture,5,9500.0
+2190,2025-02-03,Yash Shinde,Pune,Notebook,Stationery,1,120.0
+1224,2025-11-08,Isha Patil,Mumbai,Laptop,Electronics,3,55000.0
+1112,2025-10-17,Aarav Jadhav,Nanded,Smartphone,Electronics,4,22000.0
+2446,2025-07-18,Sneha Patil,Pune,Notebook,Stationery,4,120.0
+2306,2025-04-03,Neha Joshi,Pune,Pen Pack,Stationery,3,80.0
+1999,2025-08-27,Riya Kulkarni,Nanded,Laptop,Electronics,4,55000.0
+1273,2025-08-01,Aarav Shinde,Nanded,Laptop,Electronics,3,55000.0
+1391,2025-09-28,Sneha Kulkarni,Pune,Pen Pack,Stationery,1,80.0
+1781,2025-09-04,Yash Patil,Nanded,Backpack,Accessories,2,1800.0
+2339,2025-05-29,Omkar Shinde,Pune,Smartphone,Electronics,4,22000.0
+1710,2025-02-25,Neha Patil,Aurangabad,Notebook,Stationery,5,120.0
+2262,2025-08-07,Rohan Jadhav,Pune,Backpack,Accessories,3,1800.0
+1140,2025-05-30,Aarav Kulkarni,Nagpur,Backpack,Accessories,3,1800.0
+2403,2025-03-25,Sneha Joshi,Nashik,Pen Pack,Stationery,4,80.0
+2061,2025-03-14,Pooja More,Nashik,Smartphone,Electronics,5,22000.0
+2070,2025-05-21,Isha Patil,Aurangabad,Desk,Furniture,1,9500.0
+1764,2025-06-11,Neha Joshi,Pune,Notebook,Stationery,3,120.0
+1517,2025-11-09,Sneha Pawar,Nagpur,Laptop,Electronics,2,55000.0
+1767,2025-10-10,Riya Joshi,Aurangabad,Backpack,Accessories,5,1800.0
+1101,2025-07-21,Yash Patil,Pune,Laptop,Electronics,4,55000.0
+2112,2025-03-30,Aarav More,Pune,Laptop,Electronics,4,55000.0
+1413,2025-06-13,Rohan Jadhav,Nagpur,Backpack,Accessories,4,1800.0
+2241,2025-09-16,Isha Jadhav,Nanded,Backpack,Accessories,5,1800.0
+2319,2025-01-28,Rohan Joshi,Pune,Headphones,Electronics,4,2500.0
+1405,2025-08-02,Pooja Joshi,Nashik,Pen Pack,Stationery,2,80.0
+2417,2025-10-15,Riya Deshmukh,Mumbai,Desk,Furniture,5,9500.0
+1103,2025-04-19,Omkar Jadhav,Nagpur,Notebook,Stationery,4,120.0
+2378,2025-02-20,Sneha Jadhav,Nagpur,Backpack,Accessories,2,1800.0
+1031,2025-12-10,Karan Pawar,Nanded,Pen Pack,Stationery,4,80.0
+1516,2025-11-25,Sneha Deshmukh,Nanded,Headphones,Electronics,5,2500.0
+2280,2025-05-01,Neha Kulkarni,Mumbai,Pen Pack,Stationery,1,80.0
+2457,2025-04-25,Aarav More,Nashik,Laptop,Electronics,5,55000.0
+1188,2025-03-26,Isha Pawar,Nagpur,Desk,Furniture,3,9500.0
+1816,2025-07-24,Karan Shinde,Nashik,Desk,Furniture,5,9500.0
+1660,2025-02-11,Omkar Jadhav,Aurangabad,Headphones,Electronics,2,2500.0
+1839,2025-07-05,Yash More,Mumbai,Notebook,Stationery,5,120.0
+1642,2025-12-16,Aarav Pawar,Mumbai,Laptop,Electronics,2,55000.0
+1686,2025-01-24,Aarav Joshi,Aurangabad,Smartphone,Electronics,2,22000.0
+2475,2025-06-09,Yash Shinde,Nanded,Headphones,Electronics,3,2500.0
+1507,2025-03-05,Sneha Pawar,Nashik,Laptop,Electronics,1,55000.0
+1835,2025-01-28,Pooja Shinde,Nashik,Headphones,Electronics,5,2500.0
+2045,2025-11-12,Yash Pawar,Mumbai,Pen Pack,Stationery,2,80.0
+2072,2025-12-25,Rohan Pawar,Mumbai,Desk,Furniture,5,9500.0
+1732,2025-03-20,Karan Patil,Aurangabad,Laptop,Electronics,5,55000.0
+1142,2025-08-06,Riya Kulkarni,Aurangabad,Office Chair,Furniture,2,7500.0
+1261,2025-01-10,Karan More,Mumbai,Notebook,Stationery,2,120.0
+2479,2025-04-13,Rohan Deshmukh,Nagpur,Office Chair,Furniture,2,7500.0
+1786,2025-11-28,Neha Patil,Mumbai,Headphones,Electronics,1,2500.0
+2279,2025-11-04,Riya Jadhav,Nagpur,Office Chair,Furniture,5,7500.0
+1063,2025-07-09,Yash Joshi,Nashik,Laptop,Electronics,2,55000.0
+1457,2025-10-16,Rohan Joshi,Aurangabad,Smartphone,Electronics,5,22000.0
+2134,2025-10-27,Omkar Patil,Nashik,Backpack,Accessories,2,1800.0
+1228,2025-06-09,Karan Deshmukh,Pune,Notebook,Stationery,2,120.0
+2393,2025-09-16,Riya Patil,Nagpur,Pen Pack,Stationery,3,80.0
+1359,2025-05-05,Aarav Kulkarni,Aurangabad,Office Chair,Furniture,2,7500.0
+2146,2025-10-13,Aarav Shinde,Mumbai,Smartphone,Electronics,2,22000.0
+1131,2025-01-07,Yash More,Nashik,Smartphone,Electronics,4,22000.0
+2102,2025-08-24,Isha Kulkarni,Mumbai,Smartphone,Electronics,5,22000.0
+1280,2025-11-02,Pooja Patil,Aurangabad,Backpack,Accessories,5,1800.0
+1673,2025-12-01,Aarav Patil,Aurangabad,Smartphone,Electronics,1,22000.0
+1833,2025-07-10,Yash Jadhav,Nashik,Backpack,Accessories,5,1800.0
+2238,2025-02-04,Omkar Patil,Mumbai,Laptop,Electronics,4,55000.0
+1935,2025-05-05,Riya More,Nashik,Office Chair,Furniture,3,7500.0
+2080,2025-08-10,Yash More,Nagpur,Notebook,Stationery,3,120.0
+2041,2025-08-16,Sneha More,Nashik,Smartphone,Electronics,1,22000.0
+1871,2025-08-09,Isha Kulkarni,PUNE,Laptop,Electronics,5,55000.0
+2362,2025-11-28,Neha Pawar,Pune,Desk,Furniture,4,9500.0
+2131,2025-10-31,Yash Jadhav,Nashik,Backpack,Accessories,2,1800.0
+1923,2025-02-17,Yash Shinde,Nanded,Desk,Furniture,2,9500.0
+1956,2025-08-18,Pooja Joshi,MUMBAI,Notebook,Stationery,2,120.0
+1558,2025-02-24,Sneha Pawar,Nashik,Headphones,Electronics,3,2500.0
+1342,2025-10-31,Karan Pawar,Aurangabad,Desk,Furniture,5,9500.0
+1160,2025-05-05,Omkar Joshi,Nashik,Backpack,Accessories,2,1800.0
+1373,2025-07-16,Rohan Pawar,Nagpur,Desk,Furniture,3,9500.0
+1454,2025-06-03,Karan Kulkarni,Nashik,Headphones,Electronics,3,2500.0
+1821,2025-09-15,Isha Jadhav,Pune,Smartphone,Electronics,5,22000.0
+2310,2025-02-07,Riya Patil,Pune,Desk,Furniture,3,9500.0
+1668,2025-06-02,Isha Pawar,Aurangabad,Laptop,Electronics,5,55000.0
+1769,2025-01-10,Pooja Patil,Nanded,Smartphone,Electronics,5,22000.0
+1928,2025-06-06,Pooja Patil,Nagpur,Laptop,Electronics,5,55000.0
+1143,2025-03-14,Riya Patil,Mumbai,Desk,Furniture,3,9500.0
+2253,2025-02-28,Karan Joshi,Pune,Desk,Furniture,5,9500.0
+1759,2025-10-09,Omkar Deshmukh,Nagpur,Laptop,Electronics,1,55000.0
+1410,2025-05-05,Yash Kulkarni,Nashik,Backpack,Accessories,2,1800.0
+1102,2025-08-25,Sneha Patil,Nagpur,Headphones,Electronics,4,2500.0
+2101,2025-01-29,Riya Jadhav,Nanded,Pen Pack,Stationery,3,80.0
+1092,2025-11-17,Rohan More,Nashik,Backpack,Accessories,1,1800.0
+1285,2025-02-04,Karan Kulkarni,Aurangabad,Notebook,Stationery,1,120.0
+1375,2025-02-01,  Riya Pawar  ,Nagpur,Office Chair,Furniture,2,7500.0
+1227,2025-07-12,Neha Pawar,Nagpur,Office Chair,Furniture,2,7500.0
+1882,2025-05-17,Neha Deshmukh,Nanded,Laptop,Electronics,4,55000.0
+1991,2025-01-19,Riya More,Nagpur,Notebook,Stationery,3,120.0
+1491,2025-10-06,Karan Patil,Aurangabad,Desk,Furniture,4,9500.0
+1684,2025-01-26,Riya Joshi,Pune,Backpack,Accessories,3,1800.0
+1098,2025-07-19,Neha Kulkarni,Nashik,Desk,Furniture,2,9500.0
+1955,2025-08-02,Rohan Joshi,Nashik,Office Chair,Furniture,3,7500.0
+2329,2025-04-19,Aarav More,NAGPUR,Headphones,Electronics,1,2500.0
+2334,2025-07-03,Riya Jadhav,Nanded,Headphones,Electronics,2,2500.0
+1099,2025-08-12,Omkar Patil,Nashik,Desk,Furniture,3,9500.0
+1118,2025-06-22,Aarav Pawar,Nagpur,Pen Pack,Stationery,2,80.0
+2307,2025-05-01,Yash Pawar,Mumbai,Desk,Furniture,3,9500.0
+2055,2025-11-25,Neha Pawar,Aurangabad,Headphones,Electronics,5,2500.0
+2086,2025-01-30,Yash Kulkarni,Nanded,Smartphone,Electronics,1,22000.0
+2203,2025-11-18,Sneha Deshmukh,Nanded,Office Chair,Furniture,2,7500.0
+1385,2025-12-11,Isha Patil,Nashik,Backpack,Accessories,3,1800.0
+1924,2025-06-16,Omkar Joshi,Nashik,Smartphone,Electronics,5,22000.0
+2128,2025-04-18,Neha More,Nagpur,Desk,Furniture,5,9500.0
+1371,2025-09-21,Karan Deshmukh,Nashik,Pen Pack,Stationery,1,80.0
+1768,2025-05-24,Sneha Kulkarni,Nagpur,Smartphone,Electronics,1,22000.0
+1702,2025-10-13,Pooja Patil,Pune,Laptop,Electronics,5,55000.0
+1088,2025-12-23,Pooja Pawar,Pune,Headphones,Electronics,5,2500.0
+1897,2025-04-08,Yash Joshi,Nanded,Backpack,Accessories,3,1800.0
+1120,2025-10-12,Aarav Kulkarni,Pune,Desk,Furniture,2,9500.0
+2258,2025-03-27,Yash More,Nagpur,Notebook,Stationery,4,120.0
+2418,2025-10-19,Pooja Kulkarni,Nashik,Laptop,Electronics,5,55000.0
+1640,2025-01-15,Neha Patil,Mumbai,Desk,Furniture,5,9500.0
+1954,2025-07-21,Sneha Deshmukh,Aurangabad,Notebook,Stationery,4,120.0
+1230,2025-09-06,Yash Pawar,Nashik,Pen Pack,Stationery,3,80.0
+1830,2025-04-13,Rohan Kulkarni,Nagpur,Backpack,Accessories,2,1800.0
+1065,2025-12-08,Riya Jadhav,Nanded,Office Chair,Furniture,4,7500.0
+2348,2025-12-11,Riya Shinde,Nanded,Desk,Furniture,1,9500.0
+1780,2025-07-12,Rohan Shinde,Nagpur,Desk,Furniture,3,9500.0
+2198,2025-10-25,Omkar Shinde,Nagpur,Notebook,Stationery,4,120.0
+1165,2025-04-30,Neha Patil,Nagpur,Pen Pack,Stationery,4,80.0
+1200,2025-10-06,Karan Patil,NASHIK,Notebook,Stationery,3,120.0
+2305,2025-04-16,Yash Kulkarni,,Pen Pack,Stationery,2,80.0
+1692,2025-11-10,Aarav Joshi,Nashik,Notebook,Stationery,4,120.0
+2175,2025-03-04,Aarav Shinde,Nashik,Desk,Furniture,2,9500.0
+1451,2025-11-01,Yash Kulkarni,Nashik,Backpack,Accessories,1,1800.0
+1448,2025-03-13,Isha More,Nagpur,Headphones,Electronics,4,2500.0
+1074,2025-11-07,Pooja Deshmukh,Nashik,Pen Pack,Stationery,5,80.0
+1808,2025-04-20,Pooja Shinde,Nagpur,Smartphone,Electronics,5,22000.0
+1614,2025-08-27,Isha Kulkarni,Nagpur,Backpack,Accessories,5,1800.0
+1082,2025-12-12,Rohan Pawar,Aurangabad,Backpack,Accessories,2,1800.0
+1249,2025-08-25,Omkar Patil,Pune,Desk,Furniture,3,9500.0
+2496,2025-10-02,Isha Joshi,Nagpur,Office Chair,Furniture,2,7500.0
+2392,2025-01-12,Aarav More,MUMBAI,Headphones,Electronics,3,2500.0
+1717,2025-12-31,Pooja Kulkarni,Mumbai,Notebook,Stationery,2,120.0
+1201,2025-03-04,Omkar Deshmukh,Aurangabad,Office Chair,Furniture,2,7500.0
+1229,2025-11-13,Aarav Deshmukh,Nagpur,Headphones,Electronics,4,2500.0
+1380,2025-09-27,Omkar Jadhav,Pune,Smartphone,Electronics,5,22000.0
+2069,2025-09-16,Riya More,Nagpur,Headphones,Electronics,2,2500.0
+1377,2025-07-08,Yash Kulkarni,Mumbai,Desk,Furniture,2,9500.0
+1561,2025-12-27,Yash Patil,Mumbai,Desk,Furniture,3,9500.0
+1819,2025-11-07,Rohan Pawar,Nashik,Office Chair,Furniture,5,7500.0
+1510,2025-01-27,Neha More,Aurangabad,Headphones,Electronics,2,2500.0
+1196,2025-07-18,Omkar Jadhav,Aurangabad,Headphones,Electronics,5,2500.0
+2107,2025-10-01,Omkar Patil,Pune,Backpack,Accessories,3,1800.0
+1823,2025-10-16,Omkar Kulkarni,Nagpur,Pen Pack,Stationery,4,80.0
+1010,2025-02-10,Rohan Deshmukh,Nashik,Desk,Furniture,3,9500.0
+2141,2025-04-21,Yash Pawar,Nashik,Backpack,Accessories,3,1800.0
+2132,2025-04-28,Riya Jadhav,Mumbai,Notebook,Stationery,1,120.0
+1446,2025-07-31,Neha Deshmukh,Aurangabad,Desk,Furniture,5,9500.0
+1426,2025-02-10,Karan Shinde,Nashik,Pen Pack,Stationery,5,80.0
+2286,2025-05-10,Pooja Shinde,Nagpur,Office Chair,Furniture,3,7500.0
+1576,2025-10-06,Omkar Jadhav,Nanded,Backpack,Accessories,5,1800.0
+2052,2025-10-12,Neha Jadhav,Nashik,Office Chair,Furniture,2,7500.0
+2202,2025-01-25,Isha More,Nanded,Notebook,Stationery,1,120.0
+2191,2025-11-24,Isha Shinde,Mumbai,Pen Pack,Stationery,5,80.0
+1412,2025-05-14,Karan Pawar,Nashik,Desk,Furniture,1,9500.0
+1189,2025-08-28,Riya Joshi,Mumbai,Smartphone,Electronics,4,22000.0
+2410,2025-04-21,Sneha Pawar,Pune,Desk,Furniture,1,9500.0
+1555,2025-08-11,Sneha Kulkarni,Nagpur,Laptop,Electronics,3,55000.0
+1214,2025-08-21,Pooja Shinde,Pune,Desk,Furniture,1,9500.0
+1593,2025-10-18,Aarav Joshi,Nanded,Pen Pack,Stationery,-1,80.0
+1518,2025-07-30,Yash Pawar,Mumbai,Headphones,Electronics,1,2500.0
+1509,2025-12-02,Karan More,Pune,Smartphone,Electronics,3,22000.0
+1872,2025-04-07,Neha Shinde,Nashik,Notebook,Stationery,2,120.0
+2275,2025-01-11,Aarav Deshmukh,Nagpur,Backpack,Accessories,5,1800.0
+1066,2025-05-02,Sneha Joshi,Nashik,Headphones,Electronics,1,2500.0
+2011,2025-09-12,Rohan Jadhav,Nashik,Smartphone,Electronics,3,22000.0
+1512,2025-02-09,Sneha Kulkarni,Nanded,Backpack,Accessories,4,1800.0
+1478,2025-12-10,Omkar Jadhav,NANDED,Desk,Furniture,4,9500.0
+2286,2025-05-10,Pooja Shinde,Nagpur,Office Chair,Furniture,3,7500.0
+1436,2025-02-20,Neha Kulkarni,Pune,Laptop,Electronics,3,55000.0
+1756,31/02/2025,Pooja Deshmukh,Nagpur,Pen Pack,Stationery,2,80.0
+1496,2025-10-19,Karan More,Nanded,Laptop,Electronics,5,55000.0
+1825,2025-07-15,Rohan Kulkarni,Nagpur,Smartphone,Electronics,4,22000.0
+2268,2025-05-04,Sneha More,Nashik,Headphones,Electronics,4,2500.0
+1887,2025-05-10,Omkar More,Mumbai,Smartphone,Electronics,3,22000.0
+1612,2025-11-25,Pooja Shinde,Mumbai,Smartphone,Electronics,3,22000.0
+2046,2025-06-03,Yash More,Nashik,Notebook,Stationery,3,120.0
+1615,2025-03-19,Riya Deshmukh,Aurangabad,Laptop,Electronics,3,55000.0
+2292,2025-06-30,Neha Jadhav,Nashik,Smartphone,Electronics,1,22000.0
+2259,2025-09-12,Riya Kulkarni,Nagpur,Office Chair,Furniture,3,7500.0
+1645,2025-06-04,Pooja Shinde,Nanded,Backpack,Accessories,1,1800.0
+2423,2025-07-15,Isha Deshmukh,Pune,Notebook,Stationery,1,120.0
+1476,2025-04-16,Isha Deshmukh,Nanded,Office Chair,Furniture,1,7500.0
+1521,2025-10-11,Yash More,Aurangabad,Office Chair,Furniture,1,7500.0
+1351,2025-06-10,Sneha Pawar,Nanded,Pen Pack,Stationery,3,80.0
+1938,2025-11-12,Omkar Joshi,Nashik,Notebook,Stationery,1,120.0
+2499,2025-03-27,Pooja Shinde,Aurangabad,Smartphone,Electronics,5,22000.0
+2196,2025-12-01,Isha Shinde,Mumbai,Smartphone,Electronics,4,22000.0
+1618,2025-07-22,Aarav Joshi,Pune,Smartphone,Electronics,4,22000.0
+2374,2025-03-19,Pooja Deshmukh,Aurangabad,Desk,Furniture,1,9500.0
+2296,2025-06-13,Omkar Pawar,Aurangabad,Pen Pack,Stationery,2,80.0
+1281,2025-03-15,Isha Shinde,Pune,Office Chair,Furniture,5,7500.0
+1330,2025-04-08,Sneha Pawar,Nanded,Notebook,Stationery,4,120.0
+1121,2025-09-08,Pooja Kulkarni,Aurangabad,Pen Pack,Stationery,4,80.0
+1014,2025-12-17,Karan Patil,Mumbai,Office Chair,Furniture,1,7500.0
+1958,2025-06-12,Riya Deshmukh,Mumbai,Headphones,Electronics,3,2500.0
+2049,2025-02-26,Isha Patil,Mumbai,Notebook,Stationery,4,120.0
+1760,2025-02-20,Rohan Pawar,Nagpur,Desk,Furniture,3,9500.0
+1777,2025-07-18,Omkar Pawar,Pune,Notebook,Stationery,1,120.0
+1838,2025-12-12,Rohan Shinde,NANDED,Laptop,Electronics,1,55000.0
+1682,2025-02-16,Pooja Deshmukh,Aurangabad,Headphones,Electronics,1,2500.0
+2007,2025-04-17,Yash Jadhav,Nagpur,Laptop,Electronics,1,55000.0
+2269,2025-02-02,Rohan Shinde,Nagpur,Notebook,Stationery,3,120.0
+1588,2025-02-07,Karan Shinde,Nanded,Notebook,Stationery,1,120.0
+2225,2025-03-05,Omkar Deshmukh,Nanded,Notebook,Stationery,2,120.0
+1257,2025-05-26,Isha Joshi,Nagpur,Pen Pack,Stationery,1,80.0
+1191,2025-08-21,Karan More,Nanded,Smartphone,Electronics,4,22000.0
+2267,2025-10-17,Aarav Kulkarni,Nagpur,Pen Pack,Stationery,4,80.0
+1335,2025-07-07,Aarav Shinde,,Pen Pack,Stationery,5,80.0
+1030,2025-04-19,Pooja Kulkarni,Aurangabad,Pen Pack,Stationery,3,80.0
+1032,2025-05-07,Rohan Deshmukh,Nagpur,Smartphone,Electronics,1,22000.0
+1094,2025-03-12,Sneha Kulkarni,Nashik,Smartphone,Electronics,2,22000.0
+2441,2025-05-06,Karan Jadhav,Mumbai,Desk,Furniture,4,9500.0
+1041,2025-08-15,Pooja Deshmukh,Pune,Smartphone,Electronics,5,22000.0
+1017,2025-05-16,Sneha Kulkarni,Aurangabad,Headphones,Electronics,5,2500.0
+2263,2025-08-10,Pooja Jadhav,Mumbai,Desk,Furniture,4,9500.0
+1776,2025-07-09,Rohan Patil,Aurangabad,Desk,Furniture,2,9500.0
+2074,2025-07-31,Neha Kulkarni,Aurangabad,Backpack,Accessories,4,1800.0
+1701,2025-12-01,Aarav Deshmukh,Nashik,Backpack,Accessories,4,1800.0
+2208,2025-04-07,Pooja Deshmukh,Nashik,Office Chair,Furniture,-1,7500.0
+1880,2025-04-22,Karan Shinde,Nagpur,Backpack,Accessories,4,1800.0
+2285,2025-01-11,Yash Patil,Aurangabad,Desk,Furniture,1,9500.0
+1250,2025-02-09,Riya Shinde,Nashik,Desk,Furniture,5,9500.0
+2350,2025-12-21,Neha Pawar,Nagpur,Backpack,Accessories,5,1800.0
+1980,2025-01-23,Sneha Jadhav,Nanded,Pen Pack,Stationery,2,80.0
+1170,2025-12-12,Pooja Shinde,Nagpur,Notebook,Stationery,4,120.0
+2116,2025-10-31,Sneha Jadhav,Pune,Laptop,Electronics,1,55000.0
+2337,2025-11-19,Neha Deshmukh,Pune,Pen Pack,Stationery,5,80.0
+1749,2025-11-25,Yash Deshmukh,Aurangabad,Laptop,Electronics,5,55000.0
+2076,2025-01-27,Sneha Pawar,NASHIK,Smartphone,Electronics,4,22000.0
+1328,2025-05-07,Sneha Deshmukh,Pune,Backpack,Accessories,3,1800.0
+1940,2025-01-28,Rohan Joshi,Nagpur,Smartphone,Electronics,1,22000.0
+1169,31/02/2025,Yash Shinde,Aurangabad,Desk,Furniture,1,9500.0
+1497,2025-06-15,Isha More,Nanded,Headphones,Electronics,3,2500.0
+2109,2025-12-14,Pooja Joshi,Aurangabad,Backpack,Accessories,5,1800.0
+1465,2025-02-20,Isha Kulkarni,Nanded,Laptop,Electronics,5,55000.0
+1194,2025-11-29,Neha Deshmukh,Mumbai,Desk,Furniture,1,9500.0
+1372,2025-03-13,Omkar Jadhav,Mumbai,Headphones,Electronics,1,2500.0
+1801,2025-12-30,Aarav Deshmukh,Nanded,Laptop,Electronics,1,55000.0
+1537,2025-09-26,Riya More,Aurangabad,Desk,Furniture,5,9500.0
+1772,2025-03-10,Omkar Deshmukh,Nashik,Desk,Furniture,3,9500.0
+1806,2025-05-10,Isha Jadhav,Aurangabad,Backpack,Accessories,4,1800.0
+1564,2025-08-20,Pooja Kulkarni,Pune,Pen Pack,Stationery,4,80.0
+1814,2025-04-10,Aarav Kulkarni,Nanded,Desk,Furniture,2,9500.0
+2087,2025-02-14,Yash Joshi,Nashik,Smartphone,Electronics,5,22000.0
+1973,2025-03-27,Neha More,Nanded,Backpack,Accessories,1,1800.0
+1144,2025-08-13,Riya Pawar,,Desk,Furniture,3,9500.0
+1409,2025-06-05,Aarav Kulkarni,Mumbai,Notebook,Stationery,1,120.0
+2083,2025-12-11,Aarav Deshmukh,Pune,Laptop,Electronics,4,55000.0
+1035,2025-05-23,Omkar Kulkarni,Nanded,Office Chair,Furniture,2,7500.0
+2173,2025-04-05,Rohan Patil,Aurangabad,Notebook,Stationery,3,120.0
+2343,2025-12-05,Yash More,Nagpur,Backpack,Accessories,3,1800.0
+1399,2025-05-02,Isha Joshi,Aurangabad,Notebook,Stationery,5,120.0
+2015,2025-06-17,Sneha Deshmukh,Nanded,Desk,Furniture,2,9500.0
+2199,2025-07-11,Pooja Patil,Nagpur,Smartphone,Electronics,2,22000.0
+1166,2025-07-17,Sneha Pawar,Pune,Pen Pack,Stationery,2,80.0
+1676,2025-08-04,Riya More,Nanded,Desk,Furniture,5,9500.0
+1106,2025-05-07,Rohan Patil,Nanded,Laptop,Electronics,2,55000.0
+2311,2025-08-30,Karan Patil,Pune,Office Chair,Furniture,3,7500.0
+2411,2025-02-04,Aarav Shinde,Nashik,Notebook,Stationery,5,120.0
+1585,2025-01-11,Pooja Pawar,Pune,Office Chair,Furniture,3,7500.0
+2438,2025-06-03,Riya Shinde,Aurangabad,Smartphone,Electronics,1,22000.0
+2400,2025-04-20,Omkar Deshmukh,Nagpur,Backpack,Accessories,5,1800.0
+2042,2025-12-17,Yash Shinde,Nagpur,Smartphone,Electronics,4,22000.0
+1580,2025-05-17,Pooja Patil,Mumbai,Office Chair,Furniture,5,7500.0
+1293,2025-09-12,Omkar Jadhav,Nanded,Headphones,Electronics,3,2500.0
+1670,2025-03-26,Neha Patil,Mumbai,Office Chair,Furniture,2,7500.0
+1914,2025-10-09,Neha Jadhav,Aurangabad,Headphones,Electronics,2,2500.0
+1190,2025-02-16,Neha Patil,Nagpur,Notebook,Stationery,5,120.0
+2031,2025-07-06,Neha Joshi,Aurangabad,Desk,Furniture,3,9500.0
+1992,2025-02-04,Neha Deshmukh,Nagpur,Pen Pack,Stationery,4,80.0
+2036,2025-07-25,Yash Shinde,Mumbai,Backpack,Accessories,5,1800.0
+1678,2025-09-12,Rohan Kulkarni,Nagpur,Smartphone,Electronics,5,22000.0
+2298,2025-08-01,Karan Joshi,Nashik,Smartphone,Electronics,4,22000.0
+1544,2025-03-03,Pooja Patil,Mumbai,Notebook,Stationery,2,120.0
+1650,2025-01-14,Omkar More,Nagpur,Headphones,Electronics,4,2500.0
+1596,2025-12-29,Karan Pawar,Pune,Smartphone,Electronics,3,22000.0
+1449,2025-02-02,Sneha Shinde,Nagpur,Headphones,Electronics,4,2500.0
+2035,2025-02-24,Karan Deshmukh,Nagpur,Pen Pack,Stationery,5,80.0
+1076,2025-07-06,Neha Deshmukh,Aurangabad,Office Chair,Furniture,3,7500.0
+1563,2025-12-13,Isha More,Mumbai,Laptop,Electronics,1,55000.0
+1567,2025-02-08,Aarav Deshmukh,Mumbai,Desk,Furniture,4,9500.0
+1941,2025-12-22,Riya More,Nashik,Notebook,Stationery,4,120.0
+2294,2025-07-25,Rohan More,Nagpur,Laptop,Electronics,5,55000.0
+1202,2025-01-26,Karan Kulkarni,Mumbai,Laptop,Electronics,5,55000.0
+1812,2025-11-11,Pooja More,Aurangabad,Pen Pack,Stationery,5,80.0
+2147,2025-06-01,Rohan Deshmukh,Pune,Notebook,Stationery,4,120.0
+1225,2025-06-23,Karan Patil,Mumbai,Desk,Furniture,2,9500.0
+1129,2025-06-04,Aarav Joshi,Nagpur,Headphones,Electronics,1,2500.0
+1117,2025-05-23,Omkar Kulkarni,Nashik,Smartphone,Electronics,5,22000.0
+1382,2025-03-26,Karan Pawar,Pune,Headphones,Electronics,2,2500.0
+1456,2025-06-16,Neha More,Nashik,Office Chair,Furniture,3,7500.0
+1219,2025-03-08,Pooja Patil,Nanded,Notebook,Stationery,5,120.0
+2236,2025-03-17,Omkar Deshmukh,Pune,Desk,Furniture,3,9500.0
+1107,2025-03-06,Omkar Deshmukh,Nanded,Office Chair,Furniture,2,7500.0
+1637,2025-11-22,Riya Patil,Mumbai,Pen Pack,Stationery,3,80.0
+2163,2025-09-24,  Aarav More  ,Nashik,Office Chair,Furniture,5,7500.0
+1724,2025-08-20,Riya Kulkarni,Aurangabad,Notebook,Stationery,5,120.0
+1925,2025-11-01,Isha Patil,Aurangabad,Smartphone,Electronics,5,22000.0
+2471,2025-09-22,Karan Kulkarni,Pune,Backpack,Accessories,1,1800.0
+1053,2025-02-07,Pooja Kulkarni,Nanded,Smartphone,Electronics,3,22000.0
+2326,2025-07-21,Karan Deshmukh,Nagpur,Smartphone,Electronics,2,22000.0
+2480,2025-12-22,Omkar Jadhav,Nanded,Backpack,Accessories,5,1800.0
+2018,2025-06-20,Omkar Patil,Pune,Smartphone,Electronics,5,22000.0
+1300,2025-01-18,Sneha Deshmukh,Mumbai,Backpack,Accessories,3,1800.0
+1442,2025-08-16,Karan More,Pune,Desk,Furniture,2,9500.0
+1025,2025-03-20,Karan Joshi,Nanded,Office Chair,Furniture,5,7500.0
+2295,2025-02-26,Sneha Kulkarni,Nanded,Smartphone,Electronics,2,22000.0
+2121,2025-04-16,Sneha More,Nanded,Headphones,Electronics,4,2500.0
+1859,2025-04-18,Sneha Shinde,Pune,Smartphone,Electronics,1,22000.0
+2409,2025-03-14,Yash Shinde,Pune,Headphones,Electronics,3,2500.0
+1562,2025-02-16,Rohan Jadhav,Nashik,Headphones,Electronics,5,2500.0
+2207,2025-03-25,Riya Kulkarni,Mumbai,Notebook,Stationery,5,120.0
+1672,2025-07-12,Isha Patil,Nanded,Laptop,Electronics,1,55000.0
+2325,2025-09-13,Riya Jadhav,Pune,Office Chair,Furniture,3,7500.0
+1460,2025-05-10,Sneha Shinde,Nashik,Office Chair,Furniture,1,7500.0
+1565,2025-03-13,Riya Patil,Pune,Smartphone,Electronics,2,22000.0
+2058,31/02/2025,Omkar Kulkarni,Aurangabad,Laptop,Electronics,5,55000.0
+2407,2025-01-21,Pooja Joshi,Pune,Desk,Furniture,3,9500.0
+1301,2025-07-16,Yash Patil,Nanded,Notebook,Stationery,2,120.0
+2209,2025-03-01,Sneha Patil,Nashik,Smartphone,Electronics,3,22000.0
+1671,2025-04-19,Aarav Joshi,Pune,Headphones,Electronics,3,2500.0
+2012,2025-09-26,Isha Joshi,Pune,Office Chair,Furniture,3,7500.0
+1205,2025-10-04,Isha Joshi,PUNE,Headphones,Electronics,1,2500.0
+1762,2025-04-10,Karan Pawar,NASHIK,Smartphone,Electronics,3,22000.0
+1216,2025-07-24,Neha Deshmukh,Nagpur,Backpack,Accessories,4,1800.0
+1841,2025-04-05,Omkar Shinde,Mumbai,Notebook,Stationery,4,120.0
+2124,2025-10-13,Rohan Kulkarni,Pune,Laptop,Electronics,5,55000.0
+1557,2025-02-08,Rohan Joshi,Nanded,Office Chair,Furniture,1,7500.0
+2324,2025-10-26,Aarav Joshi,Nashik,Office Chair,Furniture,1,7500.0
+2158,2025-07-10,Karan Pawar,Nashik,Smartphone,Electronics,5,22000.0
+2174,2025-03-17,Karan Pawar,Nanded,Notebook,Stationery,2,120.0
+1918,2025-07-23,Aarav Patil,Nagpur,Backpack,Accessories,5,1800.0
+2347,2025-06-24,Sneha Kulkarni,Mumbai,Desk,Furniture,1,9500.0
+1685,2025-12-13,Karan Shinde,Aurangabad,Notebook,Stationery,1,120.0
+1853,2025-07-15,Yash More,Nashik,Smartphone,Electronics,2,22000.0
+1606,2025-07-29,Pooja More,Aurangabad,Office Chair,Furniture,3,7500.0
+1125,2025-06-30,Omkar More,Nagpur,Notebook,Stationery,3,120.0
+2256,2025-07-13,Yash Shinde,,Notebook,Stationery,5,120.0
+1568,2025-02-17,Karan Deshmukh,Pune,Headphones,Electronics,4,2500.0
+2367,2025-05-25,Riya Pawar,Mumbai,Office Chair,Furniture,2,7500.0
+1504,2025-04-22,Neha Kulkarni,Nashik,Pen Pack,Stationery,3,80.0
+2474,2025-04-06,Rohan Joshi,Pune,Backpack,Accessories,1,1800.0
+1323,2025-05-06,Neha More,Nashik,Backpack,Accessories,1,1800.0
+1834,2025-09-09,Sneha More,Nashik,Desk,Furniture,2,9500.0
+1104,2025-08-04,Isha Deshmukh,Nashik,Desk,Furniture,1,9500.0
+1948,2025-06-11,Omkar Deshmukh,Mumbai,Smartphone,Electronics,2,22000.0
+1447,2025-10-20,Pooja Joshi,Aurangabad,Office Chair,Furniture,4,7500.0
+1393,2025-05-07,Omkar Jadhav,Mumbai,Office Chair,Furniture,3,7500.0
+1297,2025-08-17,Aarav Jadhav,Nanded,Notebook,Stationery,4,120.0
+2359,2025-09-11,Yash More,Pune,Pen Pack,Stationery,4,80.0
+1705,2025-12-03,Karan Pawar,Pune,Backpack,Accessories,1,1800.0
+1312,2025-11-10,Riya Deshmukh,Nagpur,Headphones,Electronics,4,2500.0
+2264,2025-05-09,Yash Pawar,Aurangabad,Pen Pack,Stationery,5,80.0
+1489,2025-05-21,Rohan More,Mumbai,Laptop,Electronics,4,55000.0
+1326,2025-07-24,Sneha Jadhav,Nanded,Notebook,Stationery,5,120.0
+1707,2025-12-26,Riya Patil,Mumbai,Notebook,Stationery,4,120.0
+1048,2025-12-12,Rohan Shinde,Pune,Smartphone,Electronics,5,22000.0
+1164,2025-08-22,Karan Kulkarni,Aurangabad,Pen Pack,Stationery,2,80.0
+1528,2025-09-17,Isha Shinde,Nashik,Pen Pack,Stationery,4,80.0
+1298,2025-11-24,Aarav Deshmukh,Aurangabad,Desk,Furniture,4,9500.0
+2023,2025-10-09,Karan More,Mumbai,Notebook,Stationery,3,120.0
+2130,2025-01-15,Omkar Deshmukh,Pune,Headphones,Electronics,2,2500.0
+1680,2025-04-17,Omkar Jadhav,Mumbai,Backpack,Accessories,1,1800.0
+1616,2025-10-29,Rohan Patil,Nashik,Pen Pack,Stationery,5,80.0
+1019,2025-09-18,Omkar Deshmukh,Pune,Headphones,Electronics,1,2500.0
+2289,2025-03-24,Omkar Jadhav,Aurangabad,Office Chair,Furniture,4,7500.0
+1994,2025-12-23,Rohan Patil,Pune,Office Chair,Furniture,5,7500.0
+2350,2025-12-21,Neha Pawar,Nagpur,Backpack,Accessories,5,1800.0
+2344,2025-09-15,Aarav Deshmukh,Aurangabad,Smartphone,Electronics,4,22000.0
+2221,2025-09-28,Rohan Kulkarni,Nagpur,Laptop,Electronics,2,55000.0
+1665,2025-01-08,Karan Kulkarni,,Notebook,Stationery,1,120.0
+1350,2025-09-23,Rohan Jadhav,Aurangabad,Headphones,Electronics,4,2500.0
+1127,2025-04-09,Rohan Pawar,Nagpur,Headphones,Electronics,5,2500.0
+1792,2025-03-27,Karan Pawar,Nanded,Desk,Furniture,5,9500.0
+1418,2025-03-13,Pooja Pawar,Mumbai,Headphones,Electronics,5,2500.0
+2176,2025-06-13,Sneha Patil,Aurangabad,Backpack,Accessories,5,1800.0
+1018,2025-10-27,Neha Shinde,Nagpur,Desk,Furniture,2,9500.0
+1658,2025-07-31,Aarav Joshi,Mumbai,Desk,Furniture,2,9500.0
+1045,2025-03-21,Rohan More,Mumbai,Backpack,Accessories,1,1800.0
+2222,2025-02-20,Rohan Pawar,Nagpur,Laptop,Electronics,5,55000.0
+1589,2025-06-04,Karan Joshi,Mumbai,Notebook,Stationery,4,120.0
+1757,2025-04-19,Neha Joshi,Mumbai,Notebook,Stationery,2,120.0
+1480,2025-12-11,Isha Deshmukh,Aurangabad,Headphones,Electronics,2,2500.0
+1317,2025-06-15,Rohan Jadhav,Nanded,Headphones,Electronics,3,2500.0
+1809,2025-03-24,  Neha Patil  ,Pune,Laptop,Electronics,-1,55000.0
+2318,2025-09-09,Sneha Pawar,Pune,Notebook,Stationery,2,120.0
+1977,2025-08-21,Riya More,Nagpur,Office Chair,Furniture,2,7500.0
+2186,2025-05-26,Karan Jadhav,Nagpur,Laptop,Electronics,4,55000.0
+1530,2025-02-10,Pooja Kulkarni,Mumbai,Desk,Furniture,5,9500.0
+1895,2025-12-19,Neha Jadhav,Aurangabad,Laptop,Electronics,2,55000.0
+1847,2025-10-15,Yash Patil,Nashik,Desk,Furniture,1,9500.0
+1055,2025-08-13,Pooja More,Nanded,Headphones,Electronics,5,2500.0
+1961,31/02/2025,Aarav More,Nanded,Headphones,Electronics,5,2500.0
+1424,2025-09-15,Neha Joshi,Pune,Laptop,Electronics,1,55000.0
+2159,2025-08-29,Pooja More,Nashik,Smartphone,Electronics,5,22000.0
+1582,2025-12-24,Karan Patil,Aurangabad,Notebook,Stationery,3,120.0
+2039,2025-10-06,Rohan Joshi,Aurangabad,Notebook,Stationery,1,120.0
+1252,2025-09-14,Sneha Patil,Nashik,Backpack,Accessories,1,1800.0
+1581,2025-07-01,Sneha Joshi,Mumbai,Pen Pack,Stationery,5,80.0
+1995,2025-09-05,Yash More,Nashik,Smartphone,Electronics,5,22000.0
+1659,2025-07-29,Yash Pawar,Mumbai,Notebook,Stationery,3,120.0
+2491,2025-12-02,Riya Jadhav,Mumbai,Pen Pack,Stationery,3,80.0
+2242,2025-01-17,Neha Deshmukh,NASHIK,Laptop,Electronics,4,55000.0
+2082,2025-09-24,Karan Joshi,Nagpur,Office Chair,Furniture,5,7500.0
+1662,2025-03-28,Yash Joshi,Nashik,Office Chair,Furniture,1,7500.0
+1406,2025-04-15,Karan Deshmukh,Nashik,Desk,Furniture,3,9500.0
+2335,2025-08-17,Neha Pawar,Nagpur,Backpack,Accessories,5,1800.0
+1985,2025-04-22,Yash Pawar,,Office Chair,Furniture,4,7500.0
+2276,2025-02-02,Neha Jadhav,Aurangabad,Desk,Furniture,1,9500.0
+1535,2025-09-25,Pooja More,Mumbai,Notebook,Stationery,3,120.0
+2194,2025-09-10,Pooja Pawar,,Desk,Furniture,1,9500.0
+1033,2025-10-29,Rohan Patil,Pune,Office Chair,Furniture,1,7500.0
+1687,2025-07-03,Omkar More,Aurangabad,Notebook,Stationery,1,120.0
+2380,2025-06-24,Isha Joshi,Pune,Backpack,Accessories,3,1800.0
+1560,2025-08-26,Isha Deshmukh,Pune,Desk,Furniture,2,9500.0
+2126,2025-01-28,Rohan Deshmukh,Mumbai,Desk,Furniture,4,9500.0
+1607,2025-05-02,Riya Patil,Nashik,Desk,Furniture,5,9500.0
+2465,2025-02-13,Aarav Patil,Nashik,Smartphone,Electronics,3,22000.0
+1799,2025-08-06,Sneha More,Nashik,Smartphone,Electronics,2,22000.0
+1605,2025-03-22,Aarav Deshmukh,Nagpur,Pen Pack,Stationery,2,80.0
+1309,2025-06-03,Sneha Joshi,Nagpur,Desk,Furniture,5,9500.0
+2027,2025-12-27,Yash Pawar,Nanded,Headphones,Electronics,3,2500.0
+1500,2025-03-14,Yash More,Aurangabad,Backpack,Accessories,4,1800.0
+1855,2025-02-06,Riya Joshi,NAGPUR,Pen Pack,Stationery,2,80.0
+1766,2025-09-03,Omkar Pawar,,Notebook,Stationery,3,120.0
+1828,2025-10-11,Sneha Pawar,Nagpur,Smartphone,Electronics,3,22000.0
+1875,2025-07-31,Rohan Deshmukh,MUMBAI,Desk,Furniture,2,9500.0
+1407,2025-10-02,Rohan Patil,Nagpur,Smartphone,Electronics,4,22000.0
+1026,2025-11-03,Karan Pawar,Pune,Laptop,Electronics,1,55000.0
+1208,2025-02-02,Omkar Pawar,Nagpur,Smartphone,Electronics,5,22000.0
+2338,2025-08-26,Rohan Joshi,Nashik,Notebook,Stationery,5,120.0
+1503,2025-02-17,Omkar Jadhav,Pune,Laptop,Electronics,5,55000.0
+1608,2025-03-20,Aarav Jadhav,Pune,Backpack,Accessories,4,1800.0
+2461,2025-11-17,Riya Patil,Nashik,Smartphone,Electronics,4,22000.0
+1610,2025-04-16,Sneha More,Pune,Laptop,Electronics,4,55000.0
+1666,2025-04-26,Karan More,Mumbai,Office Chair,Furniture,1,7500.0
+1551,2025-02-23,  Rohan Kulkarni  ,Nashik,Desk,Furniture,4,9500.0
+1394,2025-02-27,Aarav Shinde,Nanded,Office Chair,Furniture,1,7500.0
+1579,2025-10-27,Rohan Joshi,Pune,Notebook,Stationery,2,120.0
+1364,2025-10-01,Aarav Joshi,Nashik,Office Chair,Furniture,2,
+1495,2025-03-26,Yash Joshi,Mumbai,Pen Pack,Stationery,2,80.0
+2327,2025-02-11,Omkar Pawar,Nashik,Laptop,Electronics,3,55000.0
+1369,2025-11-28,Isha Joshi,Pune,Backpack,Accessories,3,1800.0
+1416,2025-10-19,Rohan Pawar,Nanded,Pen Pack,Stationery,3,80.0
+2025,2025-01-26,Sneha Patil,Nashik,Backpack,Accessories,1,1800.0
+1554,2025-09-16,Sneha Shinde,Pune,Smartphone,Electronics,5,22000.0
+2455,2025-01-02,Neha Patil,Nagpur,Backpack,Accessories,4,1800.0
+1969,2025-06-10,Neha Patil,Nanded,Pen Pack,Stationery,1,80.0
+1232,2025-12-14,Yash Pawar,Nanded,Desk,Furniture,3,9500.0
+1092,2025-11-17,Rohan More,Nashik,Backpack,Accessories,1,1800.0
+1428,2025-02-17,Neha Shinde,Nashik,Laptop,Electronics,5,55000.0
+2443,2025-01-05,Sneha Shinde,Nanded,Laptop,Electronics,4,55000.0
+2331,2025-04-02,Rohan Shinde,Pune,Desk,Furniture,1,9500.0
+1370,2025-10-18,Rohan Joshi,Nanded,Desk,Furniture,4,9500.0
+1284,2025-11-22,Neha Jadhav,Nagpur,Laptop,Electronics,1,55000.0
+2125,2025-11-13,Karan Kulkarni,Nashik,Smartphone,Electronics,2,22000.0
+1646,2025-09-19,Karan More,Nagpur,Laptop,Electronics,1,55000.0
+1931,2025-07-21,Sneha Joshi,Nagpur,Desk,Furniture,1,9500.0
+2432,2025-05-07,Pooja Joshi,Nagpur,Smartphone,Electronics,5,22000.0
+1797,2025-12-14,Neha Shinde,Nagpur,Laptop,Electronics,1,55000.0
+2205,2025-10-01,Yash Jadhav,Mumbai,Smartphone,Electronics,1,22000.0
+1182,2025-01-12,Neha More,Pune,Desk,Furniture,5,9500.0
+1811,2025-07-09,Riya Patil,Aurangabad,Office Chair,Furniture,4,7500.0
+1944,2025-10-26,Pooja Patil,Nagpur,Pen Pack,Stationery,2,80.0
+1295,2025-06-14,Riya Deshmukh,Nagpur,Desk,Furniture,3,9500.0
+2115,2025-03-03,Yash Joshi,Nagpur,Notebook,Stationery,2,120.0
+1750,2025-12-25,Riya Jadhav,NANDED,Laptop,Electronics,1,55000.0
+1211,2025-12-18,Riya Pawar,Aurangabad,Pen Pack,Stationery,4,80.0
+2433,2025-08-17,Riya Kulkarni,Mumbai,Pen Pack,Stationery,3,80.0
+2427,2025-06-13,Sneha Shinde,Nagpur,Smartphone,Electronics,3,22000.0
+2164,2025-08-31,Karan Shinde,Nashik,Headphones,Electronics,1,2500.0
+1343,2025-09-01,Aarav Jadhav,Nagpur,Desk,Furniture,1,9500.0
+1265,2025-08-13,Aarav Shinde,Nagpur,Headphones,Electronics,2,2500.0
+1654,2025-12-15,Karan Deshmukh,Mumbai,Headphones,Electronics,3,2500.0
+1038,2025-01-28,Riya Patil,Nashik,Backpack,Accessories,3,1800.0
+1331,2025-06-07,Omkar Patil,Pune,Backpack,Accessories,4,1800.0
+2192,2025-12-30,Yash Joshi,Mumbai,Backpack,Accessories,2,1800.0
+2211,2025-03-30,Isha Patil,Aurangabad,Notebook,Stationery,1,120.0
+1488,2025-03-27,Riya Patil,Mumbai,Backpack,Accessories,3,1800.0
+2447,2025-04-09,Omkar Patil,Mumbai,Notebook,Stationery,1,120.0
+1156,2025-05-28,Omkar Pawar,Pune,Headphones,Electronics,1,2500.0
+1270,2025-07-10,Pooja Deshmukh,Aurangabad,Backpack,Accessories,5,1800.0
+2459,2025-10-20,Aarav Kulkarni,Aurangabad,Smartphone,Electronics,4,22000.0
+1103,2025-04-19,Omkar Jadhav,,Notebook,Stationery,4,120.0
+2230,2025-01-07,Omkar Deshmukh,Nashik,Headphones,Electronics,4,2500.0
+2406,2025-11-05,Neha Deshmukh,Pune,Smartphone,Electronics,3,22000.0
+1015,2025-07-25,Isha Deshmukh,Mumbai,Notebook,Stationery,5,120.0
+2159,2025-08-29,Pooja More,Nashik,Smartphone,Electronics,5,22000.0
+2472,2025-11-01,Riya Kulkarni,,Laptop,Electronics,2,55000.0
+2216,2025-01-23,Riya More,Aurangabad,Desk,Furniture,1,9500.0
+1366,2025-01-05,Isha Deshmukh,Nagpur,Laptop,Electronics,3,55000.0
+2183,2025-12-13,Riya Shinde,Mumbai,Backpack,Accessories,4,1800.0
+1890,2025-05-05,Aarav Patil,Nanded,Pen Pack,Stationery,4,80.0
+2481,2025-11-12,Isha Shinde,Nagpur,Notebook,Stationery,2,120.0
+1452,2025-06-05,Aarav Shinde,Nagpur,Headphones,Electronics,5,2500.0
+1643,2025-04-25,Isha More,Aurangabad,Laptop,Electronics,3,55000.0
+1520,2025-03-13,Rohan More,,Notebook,Stationery,1,120.0
+2240,2025-08-27,Rohan More,Aurangabad,Backpack,Accessories,4,1800.0
+1598,2025-01-25,Neha Pawar,Aurangabad,Laptop,Electronics,4,55000.0
+2439,2025-10-12,Isha Shinde,Mumbai,Headphones,Electronics,5,2500.0
+2243,2025-07-12,Omkar Pawar,Pune,Notebook,Stationery,1,120.0
+1538,2025-09-12,  Omkar Jadhav  ,Pune,Smartphone,Electronics,4,22000.0
+1100,2025-03-26,Omkar Joshi,Nanded,Pen Pack,Stationery,5,80.0
+1113,2025-02-05,Pooja Jadhav,Pune,Notebook,Stationery,4,120.0
+1005,2025-01-04,Sneha Shinde,Nagpur,Desk,Furniture,3,9500.0
+2029,2025-02-17,Omkar Deshmukh,Nashik,Headphones,Electronics,3,2500.0
+1042,2025-02-17,  Rohan Joshi  ,Nashik,Laptop,Electronics,4,55000.0
+1052,2025-06-11,Riya Patil,Nashik,Backpack,Accessories,5,1800.0
+1363,2025-06-14,Isha Patil,Pune,Desk,Furniture,5,9500.0
+1912,2025-10-19,Sneha Shinde,Aurangabad,Office Chair,Furniture,1,7500.0
+2266,2025-12-05,Omkar More,Aurangabad,Office Chair,Furniture,5,7500.0
+1004,2025-10-15,Rohan Shinde,Mumbai,Laptop,Electronics,4,55000.0
+2016,2025-01-19,Omkar Shinde,Aurangabad,Office Chair,Furniture,5,7500.0
+1153,2025-07-26,Pooja Patil,Aurangabad,Smartphone,Electronics,5,22000.0
+2114,2025-02-02,Rohan Shinde,Nagpur,Office Chair,Furniture,4,7500.0
+2402,2025-11-22,Neha Pawar,Aurangabad,Backpack,Accessories,4,1800.0
+1147,2025-12-12,Yash Patil,Aurangabad,Office Chair,Furniture,3,7500.0
+1752,2025-07-22,Aarav Pawar,Mumbai,Pen Pack,Stationery,5,80.0
+1091,2025-09-01,Omkar More,Mumbai,Headphones,Electronics,3,2500.0
+2127,2025-04-01,  Sneha Patil  ,PUNE,Backpack,Accessories,3,1800.0
+1195,2025-06-05,Omkar Deshmukh,Pune,Laptop,Electronics,2,55000.0
+2415,2025-06-23,Pooja Patil,Aurangabad,Pen Pack,Stationery,4,80.0
+2312,2025-06-04,Neha Jadhav,Mumbai,Pen Pack,Stationery,5,80.0
+2066,2025-03-27,Aarav More,Aurangabad,Desk,Furniture,5,9500.0
+1536,2025-05-18,Riya Patil,Nagpur,Headphones,Electronics,4,2500.0
+1105,2025-06-29,Rohan Deshmukh,Aurangabad,Laptop,Electronics,-1,55000.0
+1858,2025-01-12,Sneha Kulkarni,Aurangabad,Headphones,Electronics,3,2500.0
+1550,2025-11-22,Aarav Jadhav,Pune,Notebook,Stationery,4,120.0
+1600,2025-02-21,Omkar Kulkarni,Mumbai,Pen Pack,Stationery,4,80.0
+1566,2025-04-12,Neha Jadhav,Aurangabad,Headphones,Electronics,1,2500.0
+2156,2025-11-29,Omkar Kulkarni,Aurangabad,Smartphone,Electronics,2,22000.0
+2145,2025-09-03,Riya Pawar,Nashik,Pen Pack,Stationery,2,80.0
+1783,2025-03-18,Sneha Joshi,Nagpur,Office Chair,Furniture,5,7500.0
+1644,2025-07-12,Karan Pawar,Nagpur,Pen Pack,Stationery,2,80.0
+1649,2025-01-30,Yash Shinde,Aurangabad,Office Chair,Furniture,3,7500.0
+1255,2025-07-18,  Neha Jadhav  ,Aurangabad,Desk,Furniture,5,9500.0
+1901,2025-11-14,Karan Kulkarni,Nagpur,Laptop,Electronics,1,55000.0
+1966,2025-01-08,Isha Shinde,Mumbai,Pen Pack,Stationery,2,80.0
+1868,2025-07-07,Neha More,Mumbai,Desk,Furniture,3,9500.0
+1311,2025-07-04,Pooja Jadhav,Nashik,Laptop,Electronics,5,55000.0
+1725,2025-05-02,Pooja More,Aurangabad,Pen Pack,Stationery,1,80.0
+2005,2025-03-21,Omkar Jadhav,Nashik,Backpack,Accessories,4,1800.0
+1970,2025-08-22,Aarav Kulkarni,,Backpack,Accessories,5,1800.0
+2361,2025-08-05,Yash Jadhav,Nanded,Laptop,Electronics,1,55000.0
+1727,2025-05-09,Rohan Pawar,Mumbai,Laptop,Electronics,3,55000.0
+1445,2025-11-02,Yash Jadhav,Nashik,Smartphone,Electronics,1,22000.0
+1709,2025-03-03,Neha Kulkarni,Nashik,Office Chair,Furniture,2,7500.0
+1397,2025-08-13,Rohan Kulkarni,Pune,Pen Pack,Stationery,2,80.0
+2296,2025-06-13,Omkar Pawar,Aurangabad,Pen Pack,Stationery,2,80.0
+2137,2025-03-07,Aarav Patil,Nagpur,Notebook,Stationery,2,120.0
+1192,2025-02-25,Rohan Pawar,Pune,Notebook,Stationery,5,120.0
+1499,2025-05-08,Sneha Jadhav,Mumbai,Headphones,Electronics,4,2500.0
+2373,2025-05-13,Karan Jadhav,Pune,Backpack,Accessories,5,1800.0
+2248,2025-11-12,Karan More,Nagpur,Pen Pack,Stationery,1,80.0
+1534,2025-01-07,Sneha Patil,Mumbai,Smartphone,Electronics,4,22000.0
+1313,2025-09-27,Neha Shinde,Nanded,Backpack,Accessories,1,1800.0
+2309,2025-12-18,Rohan Shinde,Aurangabad,Pen Pack,Stationery,4,80.0
+2210,2025-12-20,Karan Joshi,Nashik,Desk,Furniture,5,9500.0
+2050,2025-11-17,Karan Shinde,Nashik,Pen Pack,Stationery,4,80.0
+1894,2025-06-12,Pooja Jadhav,Nashik,Office Chair,Furniture,2,7500.0
+1047,2025-01-30,Pooja Deshmukh,Mumbai,Headphones,Electronics,1,2500.0
+2185,2025-03-17,Neha Jadhav,Nashik,Pen Pack,Stationery,3,80.0
+1862,2025-04-28,Rohan More,Nashik,Desk,Furniture,2,9500.0
+1009,2025-10-23,Rohan Deshmukh,Pune,Notebook,Stationery,2,120.0
+1927,2025-03-03,Rohan Patil,Aurangabad,Pen Pack,Stationery,4,80.0
+2346,2025-06-10,Yash Pawar,Aurangabad,Desk,Furniture,4,9500.0
+1403,2025-07-12,Sneha Pawar,Mumbai,Desk,Furniture,2,9500.0
+2003,2025-06-24,Neha Patil,Mumbai,Notebook,Stationery,2,120.0
+1090,2025-08-15,Yash Shinde,Nanded,Notebook,Stationery,4,120.0
+1128,2025-02-21,Rohan More,Mumbai,Desk,Furniture,3,
+1951,2025-06-27,Karan Jadhav,Aurangabad,Laptop,Electronics,3,55000.0
+1276,2025-08-30,Sneha Pawar,Nashik,Desk,Furniture,5,9500.0
+1477,2025-07-07,Karan Kulkarni,Nashik,Headphones,Electronics,1,2500.0
+1288,2025-02-02,Omkar Patil,Nagpur,Headphones,Electronics,2,2500.0
+1519,2025-03-13,  Riya Shinde  ,Nagpur,Smartphone,Electronics,4,22000.0
+1613,2025-07-09,Sneha Pawar,Pune,Pen Pack,Stationery,3,80.0
+1501,2025-08-20,Riya Deshmukh,Nashik,Pen Pack,Stationery,5,80.0
+1595,2025-02-09,Rohan Jadhav,Nagpur,Notebook,Stationery,2,120.0
+1892,2025-12-18,Yash Jadhav,AURANGABAD,Smartphone,Electronics,1,22000.0
+1694,2025-01-07,Pooja Kulkarni,Aurangabad,Notebook,Stationery,3,120.0
+1796,2025-02-17,Omkar Joshi,Nanded,Smartphone,Electronics,5,22000.0
+1316,2025-03-05,Pooja Joshi,Nagpur,Laptop,Electronics,2,55000.0
+2090,2025-03-24,Riya More,Pune,Desk,Furniture,4,9500.0
+1384,2025-09-20,Neha Pawar,Nanded,Headphones,Electronics,1,2500.0
+1360,2025-02-21,Neha Jadhav,Aurangabad,Laptop,Electronics,4,55000.0
+1923,2025-02-17,Yash Shinde,Nanded,Desk,Furniture,2,9500.0
+2416,2025-11-27,Riya Joshi,AURANGABAD,Desk,Furniture,1,9500.0
+1700,2025-02-15,Omkar Pawar,Nagpur,Backpack,Accessories,1,1800.0
+2405,2025-08-31,Aarav Joshi,Nanded,Backpack,Accessories,3,1800.0
+1990,2025-03-24,Isha Joshi,Nashik,Headphones,Electronics,5,2500.0
+1012,2025-12-10,Isha Deshmukh,Nanded,Office Chair,Furniture,2,7500.0
+1075,2025-05-11,Aarav Shinde,Pune,Office Chair,Furniture,5,7500.0
+1193,2025-11-09,Rohan Deshmukh,Aurangabad,Notebook,Stationery,4,120.0
+1975,31/02/2025,Yash Joshi,Nashik,Smartphone,Electronics,4,22000.0
+1177,2025-04-29,Omkar More,Nashik,Headphones,Electronics,3,2500.0
+2448,2025-12-15,Karan Kulkarni,Pune,Desk,Furniture,5,9500.0
+1789,2025-09-22,Neha Patil,Aurangabad,Headphones,Electronics,3,2500.0
+2204,2025-06-11,Isha More,Aurangabad,Notebook,Stationery,3,120.0
+1071,2025-11-25,Pooja Shinde,Aurangabad,Notebook,Stationery,5,120.0
+2139,2025-06-01,Yash Joshi,Aurangabad,Office Chair,Furniture,5,7500.0
+1175,2025-09-29,Neha Joshi,Mumbai,Office Chair,Furniture,2,7500.0
+1679,2025-07-03,  Neha More  ,Mumbai,Office Chair,Furniture,1,7500.0
+2105,2025-03-13,Aarav Kulkarni,,Office Chair,Furniture,5,7500.0
+2408,2025-07-11,Isha More,Nashik,Desk,Furniture,1,9500.0
+1440,2025-05-18,Sneha Shinde,Aurangabad,Smartphone,Electronics,2,22000.0
+2372,2025-11-13,Rohan Deshmukh,Nanded,Smartphone,Electronics,2,22000.0
+1805,2025-07-31,Pooja Pawar,Mumbai,Office Chair,Furniture,3,7500.0
+2398,2025-07-04,Omkar Deshmukh,Mumbai,Office Chair,Furniture,4,7500.0
+1274,2025-07-17,Riya Jadhav,Mumbai,Office Chair,Furniture,1,7500.0
+1008,2025-07-13,Riya More,Aurangabad,Smartphone,Electronics,5,22000.0
+1185,2025-11-18,Aarav More,Nashik,Smartphone,Electronics,1,22000.0
+1387,2025-12-25,Riya Patil,Pune,Notebook,Stationery,4,120.0
+1804,2025-10-17,Karan More,Aurangabad,Pen Pack,Stationery,4,80.0
+1087,2025-12-02,Aarav Deshmukh,Nashik,Headphones,Electronics,2,2500.0
+1021,2025-07-15,Yash Pawar,Nanded,Pen Pack,Stationery,3,80.0
+2489,2025-06-23,Pooja Kulkarni,Mumbai,Headphones,Electronics,2,2500.0
+2184,2025-11-05,Yash Patil,Aurangabad,Notebook,Stationery,3,120.0
+2301,2025-11-04,Isha Joshi,Pune,Pen Pack,Stationery,3,80.0
+2404,31/02/2025,Pooja Deshmukh,Aurangabad,Headphones,Electronics,2,2500.0
+1891,2025-07-10,Riya Kulkarni,Mumbai,Headphones,Electronics,4,2500.0
+1556,2025-07-21,Karan Jadhav,Nashik,Notebook,Stationery,3,120.0
+1179,2025-10-28,Isha Shinde,Aurangabad,Notebook,Stationery,3,120.0
+1905,2025-09-06,Rohan Deshmukh,Pune,Smartphone,Electronics,5,22000.0
+1176,2025-11-09,Neha Kulkarni,Nashik,Smartphone,Electronics,5,22000.0
+2490,2025-04-01,Isha Deshmukh,Pune,Laptop,Electronics,2,55000.0
+1138,2025-12-05,Riya Joshi,Mumbai,Desk,Furniture,2,9500.0
+1559,2025-03-03,Pooja Jadhav,Mumbai,Pen Pack,Stationery,4,80.0
+1770,2025-10-30,Rohan Patil,Nanded,Pen Pack,Stationery,3,80.0
+2261,2025-10-24,Riya Jadhav,Nagpur,Smartphone,Electronics,1,22000.0
+1857,2025-08-16,Karan Pawar,Nashik,Desk,Furniture,2,9500.0
+1152,2025-08-21,Riya Jadhav,Nagpur,Laptop,Electronics,3,55000.0
+1381,2025-02-01,Pooja Kulkarni,Nanded,Smartphone,Electronics,5,22000.0
+1526,2025-10-07,Sneha Pawar,Pune,Notebook,Stationery,1,120.0
+1981,2025-03-16,Sneha Patil,Nashik,Headphones,Electronics,3,2500.0
+1024,2025-09-14,Sneha Deshmukh,Aurangabad,Desk,Furniture,3,9500.0
+1878,2025-04-06,Riya More,Nagpur,Laptop,Electronics,2,55000.0
+1625,2025-05-27,Pooja Jadhav,Nashik,Smartphone,Electronics,3,22000.0
+1266,2025-11-09,Isha Pawar,Mumbai,Backpack,Accessories,5,1800.0
+1222,2025-03-21,Omkar Kulkarni,Pune,Office Chair,Furniture,3,7500.0
+1411,2025-05-25,Neha Pawar,Nanded,Notebook,Stationery,3,120.0
+1832,2025-02-10,Omkar Patil,Nanded,Smartphone,Electronics,1,22000.0
+1072,2025-01-15,Riya More,Mumbai,Notebook,Stationery,5,120.0
+1020,2025-11-18,Sneha Shinde,Nanded,Headphones,Electronics,1,2500.0
+1278,2025-02-26,Isha Kulkarni,Nagpur,Pen Pack,Stationery,1,80.0
+1289,2025-04-13,Aarav Jadhav,Nagpur,Laptop,Electronics,5,55000.0
+1913,2025-12-12,Omkar Shinde,Pune,Notebook,Stationery,2,120.0
+1467,2025-06-26,Aarav Pawar,Pune,Headphones,Electronics,3,2500.0
+1840,2025-05-02,Isha Pawar,Nanded,Desk,Furniture,3,9500.0
+2271,2025-03-18,Rohan Patil,Mumbai,Smartphone,Electronics,3,22000.0
+2067,2025-02-01,Omkar Joshi,Nanded,Desk,Furniture,1,9500.0
+1417,2025-09-08,Omkar Pawar,Mumbai,Desk,Furniture,3,9500.0
+1037,2025-12-04,Neha Jadhav,Nashik,Smartphone,Electronics,4,22000.0
+1119,2025-04-19,Karan More,Nagpur,Backpack,Accessories,3,1800.0
+1367,2025-11-25,Pooja Pawar,Mumbai,Backpack,Accessories,5,1800.0
+1095,2025-02-02,Neha Shinde,Nagpur,Office Chair,Furniture,5,7500.0
+2332,2025-03-25,Neha Shinde,Nagpur,Office Chair,Furniture,2,
+1584,2025-09-09,Aarav Deshmukh,Pune,Headphones,Electronics,2,2500.0
+2483,2025-12-21,Rohan Pawar,Nanded,Office Chair,Furniture,2,
+2493,2025-12-31,Riya Deshmukh,Mumbai,Pen Pack,Stationery,2,80.0
+1771,2025-12-01,Sneha Jadhav,Nashik,Backpack,Accessories,2,1800.0
+1691,2025-10-19,Omkar Joshi,,Backpack,Accessories,4,1800.0
+2172,2025-01-22,Karan Joshi,Nashik,Smartphone,Electronics,3,22000.0
+2085,2025-05-09,Rohan Patil,Pune,Desk,Furniture,5,9500.0
+2004,2025-06-23,Omkar Pawar,Pune,Notebook,Stationery,2,120.0
+2454,2025-04-09,Aarav More,Aurangabad,Desk,Furniture,5,9500.0
+2002,2025-06-03,Pooja Jadhav,Pune,Desk,Furniture,1,9500.0
+2043,2025-02-16,Rohan Joshi,Nanded,Laptop,Electronics,1,55000.0
+1067,2025-06-20,Neha Kulkarni,Nagpur,Headphones,Electronics,2,2500.0
+2223,2025-08-14,Riya Joshi,Nagpur,Headphones,Electronics,4,2500.0
+1655,2025-06-07,Neha Jadhav,Nagpur,Office Chair,Furniture,3,7500.0
+1422,2025-12-04,Omkar Patil,Pune,Backpack,Accessories,5,1800.0
+1820,2025-05-14,Sneha Shinde,Nanded,Laptop,Electronics,1,55000.0
+1321,2025-11-30,Rohan Shinde,Nanded,Desk,Furniture,1,9500.0
+1896,2025-01-21,Omkar Pawar,Nanded,Desk,Furniture,3,9500.0
+2284,2025-03-16,Karan Pawar,Aurangabad,Desk,Furniture,3,9500.0
+1932,2025-10-20,Aarav Shinde,Nagpur,Backpack,Accessories,1,1800.0
+1802,2025-12-02,Rohan Jadhav,,Pen Pack,Stationery,3,80.0
+1198,2025-11-12,Neha More,Pune,Backpack,Accessories,3,1800.0
+2394,2025-03-05,Aarav Deshmukh,Nashik,Notebook,Stationery,3,120.0
+1139,2025-03-22,Aarav Shinde,Nashik,Smartphone,Electronics,5,22000.0
+2246,2025-12-04,Pooja Pawar,Nashik,Backpack,Accessories,5,1800.0
+1124,2025-08-31,Pooja Jadhav,Nashik,Notebook,Stationery,5,120.0
+1731,2025-01-03,Karan Pawar,Aurangabad,Desk,Furniture,2,9500.0
+1653,2025-05-31,Riya Pawar,Mumbai,Headphones,Electronics,3,2500.0
+1374,2025-10-26,Yash Patil,Nagpur,Desk,Furniture,3,9500.0
+2352,2025-01-08,Rohan Deshmukh,Pune,Headphones,Electronics,2,2500.0
+2177,2025-11-28,Isha Pawar,Nagpur,Notebook,Stationery,5,120.0
+1049,2025-10-24,Yash Patil,Nanded,Office Chair,Furniture,1,7500.0
+2155,2025-10-15,Rohan Joshi,Nagpur,Smartphone,Electronics,2,22000.0
+1601,2025-01-18,Isha Patil,Nagpur,Smartphone,Electronics,3,22000.0
+1790,2025-04-21,Omkar Pawar,Nashik,Smartphone,Electronics,2,22000.0
+1141,2025-02-06,Rohan More,Aurangabad,Backpack,Accessories,5,1800.0
+1043,2025-04-20,Neha Patil,Mumbai,Backpack,Accessories,4,1800.0
+1174,2025-05-31,Karan Jadhav,Nashik,Laptop,Electronics,2,55000.0
+1253,2025-02-13,Pooja Joshi,Pune,Notebook,Stationery,2,120.0
+1930,2025-08-17,  Yash Deshmukh  ,Mumbai,Pen Pack,Stationery,4,80.0
+1269,2025-03-24,Rohan Joshi,Nagpur,Pen Pack,Stationery,1,80.0
+1549,2025-03-19,Aarav Shinde,Pune,Office Chair,Furniture,2,7500.0
+1398,2025-04-30,Yash Jadhav,Nanded,Desk,Furniture,5,9500.0
+2429,2025-09-10,Pooja Shinde,Pune,Office Chair,Furniture,3,7500.0
+2270,2025-05-12,Yash Kulkarni,Nashik,Headphones,Electronics,2,2500.0
+1498,2025-03-11,Neha Patil,Nagpur,Smartphone,Electronics,2,22000.0
+2157,2025-06-30,Isha Shinde,Nagpur,Notebook,Stationery,1,120.0
+1415,2025-06-01,Sneha Kulkarni,Nagpur,Pen Pack,Stationery,2,80.0
+1483,2025-10-22,Neha Shinde,Mumbai,Headphones,Electronics,4,2500.0
+1693,2025-07-30,Omkar Patil,Pune,Smartphone,Electronics,3,22000.0
+1525,2025-06-12,Sneha Shinde,Nanded,Notebook,Stationery,4,120.0
+1303,2025-09-29,Karan Shinde,Nagpur,Headphones,Electronics,3,2500.0
+2500,2025-09-13,Pooja Pawar,Mumbai,Notebook,Stationery,3,120.0
+1736,2025-04-20,Karan Jadhav,Nagpur,Office Chair,Furniture,3,7500.0
+1340,2025-08-31,Pooja Pawar,Mumbai,Notebook,Stationery,5,120.0
+2063,31/02/2025,Pooja More,Nanded,Smartphone,Electronics,1,22000.0
+1609,2025-05-31,Yash Pawar,Mumbai,Smartphone,Electronics,1,22000.0
+1636,2025-12-27,Rohan More,Nagpur,Notebook,Stationery,4,120.0
+2252,2025-05-01,Isha Deshmukh,Aurangabad,Office Chair,Furniture,1,7500.0
+2232,2025-03-28,Riya Jadhav,Mumbai,Smartphone,Electronics,3,22000.0
+1720,2025-12-12,Pooja More,Nashik,Pen Pack,Stationery,1,80.0
+1874,2025-08-05,Rohan More,Nagpur,Smartphone,Electronics,5,22000.0
+1648,2025-05-14,Isha Kulkarni,Mumbai,Desk,Furniture,5,9500.0
+1251,2025-08-19,Yash Kulkarni,Nagpur,Laptop,Electronics,5,55000.0
+1628,2025-12-20,Rohan Patil,Aurangabad,Notebook,Stationery,4,120.0
+1263,2025-06-01,Riya Patil,Aurangabad,Smartphone,Electronics,3,22000.0
+2038,2025-04-17,Yash Shinde,NASHIK,Notebook,Stationery,5,120.0
+2469,2025-11-03,Yash Patil,Nashik,Office Chair,Furniture,4,7500.0
+1803,2025-03-21,Neha More,Nagpur,Smartphone,Electronics,5,22000.0
+2197,2025-01-15,Riya More,Nashik,Office Chair,Furniture,1,7500.0
+2051,2025-10-07,Rohan Joshi,Nashik,Pen Pack,Stationery,2,80.0
+1908,2025-08-28,Aarav Jadhav,Nanded,Smartphone,Electronics,4,22000.0
+1337,2025-10-09,Isha Deshmukh,Mumbai,Backpack,Accessories,1,1800.0
+1096,2025-08-01,Aarav Kulkarni,Nashik,Backpack,Accessories,4,1800.0
+2099,2025-02-05,Pooja Kulkarni,Pune,Pen Pack,Stationery,4,80.0
+2039,2025-10-06,Rohan Joshi,Aurangabad,Notebook,Stationery,1,120.0
+1651,2025-07-18,Aarav Kulkarni,Nagpur,Pen Pack,Stationery,2,80.0
+2316,2025-09-13,Isha Jadhav,Nashik,Headphones,Electronics,3,2500.0
+2206,2025-09-23,Isha Jadhav,Nashik,Headphones,Electronics,4,2500.0
+1085,2025-09-01,Yash Deshmukh,Nashik,Office Chair,Furniture,4,7500.0
+1148,2025-03-31,Omkar Pawar,Nagpur,Laptop,Electronics,2,55000.0
+1755,2025-03-05,Aarav Patil,Nanded,Headphones,Electronics,5,2500.0
+2154,2025-07-07,Karan Joshi,Aurangabad,Laptop,Electronics,5,55000.0
+1744,2025-02-23,Rohan Shinde,Aurangabad,Pen Pack,Stationery,1,80.0
+2000,2025-01-24,Karan Jadhav,Nanded,Pen Pack,Stationery,2,80.0
+1362,2025-12-01,Omkar Pawar,Aurangabad,Pen Pack,Stationery,2,80.0
+2053,2025-12-10,Sneha Joshi,Pune,Desk,Furniture,1,9500.0
+2106,2025-09-08,Neha Deshmukh,Nanded,Office Chair,Furniture,3,7500.0
+2322,2025-03-17,Riya Jadhav,Pune,Smartphone,Electronics,2,22000.0
+1965,2025-03-12,Sneha Kulkarni,Mumbai,Backpack,Accessories,1,1800.0
+2017,2025-01-03,Isha Patil,Aurangabad,Smartphone,Electronics,5,22000.0
+1652,2025-12-10,Karan More,Mumbai,Backpack,Accessories,5,1800.0
+1587,2025-03-17,Yash Joshi,Pune,Laptop,Electronics,5,55000.0
+2235,2025-09-01,Yash Shinde,Nashik,Notebook,Stationery,5,120.0
+1632,2025-08-15,Rohan Shinde,Aurangabad,Office Chair,Furniture,4,7500.0
+1336,2025-07-05,Pooja More,Pune,Office Chair,Furniture,4,7500.0
+2397,2025-07-13,Pooja Kulkarni,Pune,Headphones,Electronics,3,2500.0
+2040,2025-02-28,Yash Pawar,Nagpur,Backpack,Accessories,5,1800.0
+1233,2025-04-23,Neha Patil,PUNE,Laptop,Electronics,2,55000.0
+1379,2025-10-03,Rohan Kulkarni,Aurangabad,Backpack,Accessories,5,1800.0
+1570,2025-01-16,Neha Shinde,Mumbai,Backpack,Accessories,3,1800.0
+1277,2025-02-10,Aarav More,Mumbai,Laptop,Electronics,2,55000.0
+1068,2025-07-15,Aarav Pawar,Mumbai,Smartphone,Electronics,2,22000.0
+1979,2025-09-26,Neha Joshi,Nashik,Smartphone,Electronics,5,22000.0
+1027,2025-06-07,Rohan Patil,Mumbai,Notebook,Stationery,5,120.0
+1663,2025-11-11,Neha Shinde,Nashik,Headphones,Electronics,4,2500.0
+2376,2025-10-15,Aarav Deshmukh,Mumbai,Smartphone,Electronics,1,22000.0
+1204,2025-06-18,Sneha Patil,Nagpur,Office Chair,Furniture,2,7500.0
+2341,2025-06-01,Yash Patil,Nanded,Pen Pack,Stationery,1,80.0
+1546,2025-02-14,Pooja Pawar,Pune,Notebook,Stationery,3,120.0
+2189,2025-03-15,Rohan More,Nashik,Smartphone,Electronics,5,22000.0
+1844,2025-10-12,Neha Shinde,Mumbai,Office Chair,Furniture,2,7500.0
+1909,2025-12-29,Aarav More,Nanded,Notebook,Stationery,1,120.0
+1594,2025-11-24,Yash Deshmukh,Nashik,Office Chair,Furniture,2,7500.0
+2118,2025-08-13,Rohan Patil,Mumbai,Headphones,Electronics,1,2500.0
+1943,2025-10-08,Omkar Joshi,Aurangabad,Desk,Furniture,1,9500.0
+1514,2025-02-06,Rohan Shinde,Pune,Backpack,Accessories,1,1800.0
+1029,2025-12-04,Omkar Joshi,Nagpur,Headphones,Electronics,5,2500.0
+1388,2025-05-27,Neha Joshi,Mumbai,Laptop,Electronics,4,55000.0
+1243,2025-06-28,Karan Joshi,Mumbai,Office Chair,Furniture,1,7500.0
+2020,2025-04-13,Rohan More,Nagpur,Notebook,Stationery,5,120.0
+1531,2025-07-20,Yash Deshmukh,Nagpur,Notebook,Stationery,4,120.0
+1084,2025-04-26,Rohan Joshi,Pune,Desk,Furniture,1,9500.0
+1475,2025-08-19,Yash Shinde,Nashik,Office Chair,Furniture,1,7500.0
+1986,2025-02-10,Yash Patil,Mumbai,Backpack,Accessories,5,1800.0
+1547,2025-05-30,Yash More,Aurangabad,Office Chair,Furniture,5,7500.0
+1461,2025-11-03,Omkar Shinde,Nanded,Backpack,Accessories,5,1800.0
+2120,2025-04-02,Riya More,Nashik,Laptop,Electronics,4,55000.0
+1213,2025-11-16,Yash Jadhav,Nashik,Desk,Furniture,-1,9500.0
+1429,2025-01-29,Aarav Joshi,Pune,Backpack,Accessories,4,1800.0
+2182,2025-05-23,Rohan Patil,Pune,Office Chair,Furniture,5,7500.0
+1016,2025-04-19,Omkar Shinde,Aurangabad,Notebook,Stationery,4,120.0
+2436,2025-01-31,Omkar More,Nanded,Laptop,Electronics,3,55000.0
+2477,2025-11-05,Karan More,Nagpur,Desk,Furniture,1,9500.0
+1172,2025-02-16,Neha Deshmukh,Aurangabad,Office Chair,Furniture,1,7500.0
+1889,2025-01-08,Sneha More,Nanded,Notebook,Stationery,1,120.0
+2048,2025-07-09,Pooja Patil,Pune,Laptop,Electronics,5,55000.0
+2283,2025-10-07,Neha Pawar,Aurangabad,Notebook,Stationery,2,120.0
+1425,2025-05-04,Rohan More,Nagpur,Headphones,Electronics,3,2500.0
+1466,2025-08-17,Karan Shinde,Nashik,Office Chair,Furniture,5,7500.0
+1157,2025-12-30,Sneha More,Nanded,Office Chair,Furniture,1,7500.0
+1168,2025-03-15,Neha Joshi,Pune,Laptop,Electronics,4,55000.0
+2265,2025-01-10,Pooja Joshi,Nanded,Headphones,Electronics,4,2500.0
+1421,2025-04-22,Pooja Pawar,Nagpur,Laptop,Electronics,1,55000.0
+1730,2025-05-23,Pooja More,Mumbai,Pen Pack,Stationery,2,80.0
+1826,2025-09-22,Pooja Patil,,Notebook,Stationery,3,120.0
+1271,2025-05-26,Riya Joshi,Nagpur,Smartphone,Electronics,4,22000.0
+2333,2025-06-02,Omkar Shinde,Aurangabad,Smartphone,Electronics,3,22000.0
+2460,2025-05-08,Rohan Joshi,Nagpur,Smartphone,Electronics,3,22000.0
+1468,2025-02-13,Riya Joshi,Nagpur,Pen Pack,Stationery,3,80.0
+1916,2025-06-15,Yash Kulkarni,Nanded,Pen Pack,Stationery,5,80.0
+1077,2025-12-06,Riya More,Nanded,Notebook,Stationery,3,120.0
+2464,2025-02-07,Yash Pawar,Pune,Office Chair,Furniture,4,7500.0
+1038,2025-01-28,Riya Patil,Nashik,Backpack,Accessories,3,1800.0
+2195,2025-03-20,Isha More,Aurangabad,Laptop,Electronics,4,55000.0
+1849,2025-06-21,Isha Jadhav,Nagpur,Backpack,Accessories,5,1800.0
+2100,2025-03-04,Yash Jadhav,Nagpur,Backpack,Accessories,3,1800.0
+2201,2025-03-25,Aarav More,Nagpur,Notebook,Stationery,4,120.0
+2014,2025-09-14,Sneha Kulkarni,Nagpur,Backpack,Accessories,4,1800.0
+1093,2025-05-01,Isha Jadhav,Nagpur,Desk,Furniture,5,9500.0
+2165,2025-04-07,Riya Patil,Mumbai,Desk,Furniture,5,9500.0
+1111,2025-10-31,Rohan Deshmukh,Aurangabad,Smartphone,Electronics,3,22000.0
+1236,2025-09-30,Rohan Jadhav,Pune,Pen Pack,Stationery,4,80.0
+1308,2025-12-16,Karan Jadhav,Aurangabad,Smartphone,Electronics,1,22000.0
+1870,2025-10-01,Aarav Pawar,Nashik,Backpack,Accessories,3,1800.0
+1962,2025-11-02,Rohan Kulkarni,Aurangabad,Office Chair,Furniture,1,7500.0
+1974,2025-08-26,Omkar Deshmukh,Aurangabad,Headphones,Electronics,5,2500.0
+2022,2025-02-28,Aarav Deshmukh,Mumbai,Desk,Furniture,5,9500.0
+2034,2025-11-06,Yash Joshi,Nanded,Notebook,Stationery,1,120.0
+1718,2025-12-18,Karan Joshi,Aurangabad,Desk,Furniture,2,9500.0
+2368,2025-03-22,Yash Pawar,Pune,Office Chair,Furniture,4,7500.0
+1548,2025-08-26,Karan Pawar,,Office Chair,Furniture,5,7500.0
+2323,2025-04-03,Sneha More,Nanded,Desk,Furniture,5,9500.0
+2056,2025-11-16,Sneha Pawar,,Pen Pack,Stationery,4,80.0
+1884,2025-07-17,Omkar Kulkarni,Aurangabad,Office Chair,Furniture,1,7500.0
+1365,2025-07-23,Omkar Joshi,Aurangabad,Laptop,Electronics,3,55000.0
+1378,2025-03-20,Omkar Jadhav,Nashik,Backpack,Accessories,5,1800.0
+2214,2025-01-10,Omkar Shinde,Pune,Smartphone,Electronics,2,22000.0
+2282,2025-09-09,Pooja Jadhav,Aurangabad,Laptop,Electronics,1,55000.0
+1813,2025-03-31,Omkar Pawar,Pune,Laptop,Electronics,2,55000.0
+2009,2025-10-20,Yash Shinde,Mumbai,Headphones,Electronics,5,2500.0
+1704,2025-07-06,Aarav Kulkarni,Nashik,Notebook,Stationery,3,120.0
+1102,2025-08-25,Sneha Patil,Nagpur,Headphones,Electronics,4,2500.0
+2218,2025-12-10,Karan Patil,Pune,Headphones,Electronics,-1,2500.0
+1782,2025-03-26,Rohan Deshmukh,,Backpack,Accessories,3,1800.0
+1221,2025-05-28,Yash More,Nagpur,Laptop,Electronics,1,55000.0
+1669,2025-08-11,Sneha Jadhav,Nashik,Notebook,Stationery,3,120.0
+1626,2025-12-02,Omkar Pawar,Pune,Pen Pack,Stationery,2,80.0
+1933,2025-09-14,Neha Joshi,Mumbai,Pen Pack,Stationery,4,80.0
+2290,2025-05-21,Riya Pawar,Nashik,Laptop,Electronics,4,55000.0
+2308,2025-02-13,Aarav Pawar,Mumbai,Backpack,Accessories,3,1800.0
+1070,2025-07-24,Karan More,PUNE,Office Chair,Furniture,3,7500.0
+1173,2025-03-27,Isha Patil,Pune,Backpack,Accessories,3,1800.0
+1433,2025-04-17,Yash Joshi,Aurangabad,Laptop,Electronics,4,55000.0
+1150,2025-06-20,Karan Deshmukh,Mumbai,Pen Pack,Stationery,3,80.0
+1482,2025-12-22,Sneha Shinde,Nashik,Notebook,Stationery,5,120.0
+1283,2025-02-04,Pooja Patil,Nashik,Notebook,Stationery,4,120.0
+1386,2025-04-22,Yash Deshmukh,,Laptop,Electronics,4,55000.0
+1331,2025-06-07,Omkar Patil,Pune,Backpack,Accessories,4,1800.0
+1210,2025-08-23,Aarav Patil,Nashik,Desk,Furniture,4,9500.0
+1341,2025-06-17,Yash Jadhav,Mumbai,Headphones,Electronics,4,2500.0
+1599,2025-07-31,Omkar Shinde,Nagpur,Headphones,Electronics,5,2500.0
+2152,2025-12-17,Riya Jadhav,Aurangabad,Office Chair,Furniture,1,7500.0
+2349,2025-07-22,Riya Patil,Mumbai,Laptop,Electronics,4,55000.0
+1339,2025-09-14,Aarav Patil,Pune,Pen Pack,Stationery,2,80.0
+2424,2025-05-27,Sneha Joshi,Nagpur,Headphones,Electronics,1,2500.0
+1522,2025-04-16,Pooja Kulkarni,Aurangabad,Desk,Furniture,4,9500.0
+1390,2025-12-01,Karan Deshmukh,Mumbai,Headphones,Electronics,5,2500.0
+2078,2025-05-15,Sneha Shinde,Pune,Backpack,Accessories,3,1800.0
+1036,2025-05-05,Omkar Shinde,Mumbai,Backpack,Accessories,1,1800.0
+1287,2025-12-17,Omkar Pawar,Aurangabad,Headphones,Electronics,-1,2500.0
+1623,2025-12-25,Yash Shinde,Pune,Laptop,Electronics,4,55000.0
+1315,2025-03-07,Pooja Joshi,Mumbai,Notebook,Stationery,4,120.0
+2032,2025-08-21,Omkar Patil,Pune,Notebook,Stationery,4,120.0
+2138,2025-08-27,Omkar Shinde,Mumbai,Smartphone,Electronics,3,22000.0
+1319,2025-09-15,Sneha Joshi,Mumbai,Smartphone,Electronics,5,22000.0
+1775,2025-01-21,Rohan Pawar,Mumbai,Notebook,Stationery,1,120.0
+2470,2025-08-08,Yash Deshmukh,Nagpur,Backpack,Accessories,1,1800.0
+2277,2025-03-13,Rohan Deshmukh,Nanded,Pen Pack,Stationery,5,80.0
+1716,2025-07-31,Yash More,Aurangabad,Headphones,Electronics,5,2500.0
+2111,2025-11-13,Aarav Kulkarni,Aurangabad,Backpack,Accessories,2,1800.0
+2497,2025-11-19,Isha Joshi,Nanded,Laptop,Electronics,5,55000.0
+1062,2025-10-15,Aarav Deshmukh,Pune,Pen Pack,Stationery,2,80.0
+1453,2025-06-18,Omkar Jadhav,Nashik,Pen Pack,Stationery,5,80.0
+1631,2025-06-14,Isha Shinde,Nanded,Backpack,Accessories,1,1800.0
+2213,2025-03-08,Riya Shinde,Aurangabad,Office Chair,Furniture,1,7500.0
+1163,2025-03-18,Omkar Pawar,Nagpur,Backpack,Accessories,3,1800.0
+2010,2025-06-07,Karan Patil,Nagpur,Smartphone,Electronics,4,22000.0
+2169,2025-05-28,Aarav Joshi,Nagpur,Notebook,Stationery,3,120.0
+1729,2025-03-30,Pooja Deshmukh,Nashik,Headphones,Electronics,1,2500.0
+1876,2025-02-26,Omkar Pawar,Nagpur,Desk,Furniture,5,9500.0
+1358,2025-10-15,Isha Joshi,Pune,Desk,Furniture,5,9500.0
+1254,2025-08-13,Pooja Joshi,Nagpur,Backpack,Accessories,3,1800.0
+1097,2025-10-22,Neha Pawar,Pune,Laptop,Electronics,3,55000.0
+1245,2025-04-01,Omkar Pawar,Nanded,Smartphone,Electronics,5,22000.0
+1114,2025-02-24,Neha Jadhav,Aurangabad,Backpack,Accessories,4,1800.0
+2450,2025-09-10,Yash Kulkarni,Pune,Desk,Furniture,2,9500.0
+1745,2025-01-13,Omkar Jadhav,Pune,Headphones,Electronics,1,2500.0
+2110,2025-02-06,Aarav Joshi,Nashik,Office Chair,Furniture,1,7500.0
+1137,2025-11-09,Riya Kulkarni,Aurangabad,Laptop,Electronics,2,55000.0
+1013,2025-03-25,Omkar Shinde,Nagpur,Office Chair,Furniture,5,7500.0
+1392,2025-08-26,Pooja Shinde,Nanded,Desk,Furniture,4,9500.0
+2188,2025-08-06,Neha Joshi,Nanded,Headphones,Electronics,5,2500.0
+2364,2025-08-29,Karan Pawar,Mumbai,Office Chair,Furniture,5,7500.0
+2314,2025-06-23,Omkar Joshi,Pune,Backpack,Accessories,3,1800.0
+1506,2025-12-16,Aarav Patil,Pune,Notebook,Stationery,4,120.0
+1493,2025-05-15,Karan Deshmukh,Nashik,Backpack,Accessories,1,1800.0
+1294,2025-08-06,Riya Shinde,Nanded,Smartphone,Electronics,2,22000.0
+1207,2025-03-31,Isha Patil,Mumbai,Laptop,Electronics,4,55000.0
+1807,2025-12-04,Riya Kulkarni,Nashik,Headphones,Electronics,2,2500.0
+2257,2025-09-08,Riya Kulkarni,Nagpur,Smartphone,Electronics,4,22000.0
+2468,2025-07-15,Neha Deshmukh,Nanded,Desk,Furniture,4,9500.0
+1714,2025-09-16,Neha Shinde,Nanded,Notebook,Stationery,2,120.0
+1817,2025-09-23,Aarav Deshmukh,Pune,Office Chair,Furniture,5,7500.0
+1080,2025-07-27,Pooja Patil,Nagpur,Desk,Furniture,3,9500.0
+1883,2025-04-09,Isha Shinde,Pune,Headphones,Electronics,1,2500.0
+2026,2025-07-16,Aarav Deshmukh,Nashik,Smartphone,Electronics,4,22000.0
+1401,2025-11-17,Neha Pawar,Pune,Headphones,Electronics,3,2500.0
+1158,2025-02-17,Rohan Deshmukh,Nashik,Pen Pack,Stationery,1,80.0
+1492,2025-08-06,Riya Kulkarni,Nagpur,Office Chair,Furniture,1,7500.0
+2401,2025-10-29,Pooja Shinde,Nagpur,Pen Pack,Stationery,5,80.0
+1726,2025-07-18,Neha Jadhav,Nanded,Pen Pack,Stationery,1,80.0
+1681,2025-12-10,Riya Deshmukh,Nanded,Laptop,Electronics,4,55000.0
+1402,2025-09-26,Karan Shinde,Nashik,Pen Pack,Stationery,2,80.0
+2181,2025-01-29,Yash Kulkarni,Nanded,Notebook,Stationery,5,120.0
+1180,2025-06-04,Rohan Shinde,Nashik,Backpack,Accessories,1,1800.0
+1922,2025-05-16,Karan Kulkarni,Mumbai,Headphones,Electronics,3,2500.0
+1079,2025-08-04,Neha Joshi,Nanded,Office Chair,Furniture,5,7500.0
+1987,2025-11-14,Pooja Kulkarni,Pune,Desk,Furniture,2,9500.0
+2452,2025-12-04,Yash Joshi,Pune,Office Chair,Furniture,5,7500.0
+2117,2025-03-14,Neha Joshi,Aurangabad,Desk,Furniture,-1,9500.0
+1737,2025-11-13,Pooja Pawar,Nanded,Office Chair,Furniture,1,7500.0
+1695,2025-08-10,Rohan Pawar,Nagpur,Smartphone,Electronics,4,22000.0
+1320,2025-10-16,Aarav Patil,Pune,Notebook,Stationery,1,120.0
+1485,2025-06-11,Omkar Patil,,Headphones,Electronics,1,2500.0
+1199,2025-08-16,Omkar Kulkarni,NAGPUR,Office Chair,Furniture,1,7500.0
+2129,2025-01-23,Riya Patil,Nanded,Backpack,Accessories,2,1800.0
+1818,2025-10-14,Yash Jadhav,Nagpur,Desk,Furniture,3,9500.0
+1712,2025-10-11,Neha Pawar,Nanded,Laptop,Electronics,2,55000.0
+1621,2025-06-13,Riya Deshmukh,Nashik,Desk,Furniture,5,9500.0
+2047,2025-10-26,Aarav Shinde,Mumbai,Smartphone,Electronics,3,22000.0
+1439,2025-02-13,Yash More,Mumbai,Pen Pack,Stationery,1,80.0
+2492,2025-05-03,Karan Jadhav,Aurangabad,Backpack,Accessories,2,1800.0
+1134,2025-03-19,Sneha More,Pune,Laptop,Electronics,2,55000.0
+2143,2025-10-30,Sneha Patil,Nashik,Office Chair,Furniture,1,7500.0
+1815,2025-07-04,Rohan Patil,Mumbai,Laptop,Electronics,1,55000.0
+1647,2025-02-02,Karan More,Aurangabad,Backpack,Accessories,3,1800.0
+1863,2025-09-27,Sneha Patil,Pune,Headphones,Electronics,3,2500.0
+1900,2025-01-01,Pooja Shinde,Aurangabad,Backpack,Accessories,2,1800.0
+1408,2025-02-07,Rohan Kulkarni,Nashik,Laptop,Electronics,2,55000.0
+1155,2025-11-17,Omkar Patil,Mumbai,Backpack,Accessories,3,1800.0
+2030,2025-08-29,Rohan Kulkarni,Mumbai,Backpack,Accessories,5,1800.0
+1279,2025-05-03,Neha Pawar,Pune,Laptop,Electronics,1,55000.0
+1795,2025-04-01,Omkar Patil,Nanded,Smartphone,Electronics,5,22000.0
+1116,2025-08-27,Neha More,Nagpur,Backpack,Accessories,2,1800.0
+2233,2025-11-01,Neha Deshmukh,Mumbai,Office Chair,Furniture,4,7500.0
+1597,2025-05-08,Riya Jadhav,Nagpur,Office Chair,Furniture,1,7500.0
+2365,2025-10-28,Karan Pawar,Mumbai,Office Chair,Furniture,3,7500.0
+1209,2025-08-20,Pooja Kulkarni,Nanded,Smartphone,Electronics,1,22000.0
+1719,2025-12-30,Riya Jadhav,Nanded,Notebook,Stationery,4,120.0
+1586,2025-03-08,Karan Joshi,Nagpur,Office Chair,Furniture,1,7500.0
+2033,2025-06-29,Omkar Pawar,Mumbai,Smartphone,Electronics,3,22000.0
+2247,2025-09-17,Aarav Shinde,Nagpur,Headphones,Electronics,4,2500.0
+1469,2025-08-22,Rohan Pawar,Nagpur,Notebook,Stationery,4,120.0
+2287,2025-10-01,Rohan Pawar,Nashik,Smartphone,Electronics,1,22000.0
+1540,2025-04-27,Pooja Patil,Pune,Smartphone,Electronics,1,22000.0
+1836,2025-09-15,Karan Shinde,Aurangabad,Laptop,Electronics,2,55000.0
+1529,2025-11-24,Pooja Joshi,Nagpur,Smartphone,Electronics,1,22000.0
+1240,2025-02-15,Neha Deshmukh,,Notebook,Stationery,4,120.0
+2456,2025-05-21,Riya Pawar,Nashik,Pen Pack,Stationery,3,80.0
+2297,2025-03-30,Yash Jadhav,Nagpur,Desk,Furniture,2,9500.0
+2298,2025-08-01,Karan Joshi,Nashik,Smartphone,Electronics,4,22000.0
+1458,2025-08-25,Rohan Pawar,Nagpur,Laptop,Electronics,1,55000.0
+1420,2025-07-31,Sneha Kulkarni,Pune,Laptop,Electronics,2,55000.0
+1264,2025-11-02,Neha Joshi,Mumbai,Headphones,Electronics,2,2500.0
+2104,2025-11-19,Karan Pawar,Pune,Smartphone,Electronics,-1,22000.0
+1920,2025-04-20,Karan Patil,Aurangabad,Office Chair,Furniture,3,7500.0
+2084,2025-09-26,Riya Pawar,Nagpur,Smartphone,Electronics,2,22000.0
+1947,2025-01-10,Isha Shinde,Mumbai,Smartphone,Electronics,4,22000.0
+1906,2025-12-03,Omkar More,,Pen Pack,Stationery,3,80.0
+1431,2025-04-19,Yash Pawar,Nagpur,Office Chair,Furniture,1,7500.0
+1203,2025-02-05,Pooja Kulkarni,Nanded,Office Chair,Furniture,2,7500.0
+1184,2025-04-23,Rohan More,Aurangabad,Notebook,Stationery,2,120.0
+1178,2025-08-27,Isha Joshi,Pune,Laptop,Electronics,4,55000.0
+1937,2025-06-14,Karan Patil,Nagpur,Office Chair,Furniture,2,7500.0
+2458,2025-06-11,Aarav Shinde,Mumbai,Backpack,Accessories,3,1800.0
+2193,2025-05-29,Pooja Pawar,Pune,Pen Pack,Stationery,3,80.0
+2482,2025-08-21,Aarav Pawar,Mumbai,Smartphone,Electronics,1,22000.0
+2226,2025-07-04,Isha Patil,Pune,Backpack,Accessories,3,1800.0
+1083,2025-05-26,Pooja Jadhav,Pune,Smartphone,Electronics,2,22000.0
+1054,2025-06-28,Riya Kulkarni,Nagpur,Headphones,Electronics,3,2500.0
+1159,2025-09-13,Isha More,Nashik,Headphones,Electronics,4,2500.0
+1086,2025-12-23,Neha Pawar,NASHIK,Office Chair,Furniture,2,7500.0
+1154,2025-07-31,Aarav Kulkarni,Nanded,Backpack,Accessories,3,1800.0
+2179,2025-01-21,Sneha Deshmukh,Nagpur,Backpack,Accessories,1,1800.0
+1885,31/02/2025,Riya Kulkarni,Nashik,Office Chair,Furniture,4,7500.0
+1634,2025-03-11,Pooja Patil,Mumbai,Pen Pack,Stationery,2,80.0
+1126,2025-03-03,Rohan Jadhav,Pune,Office Chair,Furniture,5,7500.0
+1523,2025-11-27,Aarav Kulkarni,Nashik,Desk,Furniture,4,9500.0
+1824,2025-10-28,Aarav Pawar,PUNE,Backpack,Accessories,3,1800.0
+2328,2025-06-18,Aarav Pawar,Nagpur,Laptop,Electronics,5,55000.0
+2142,2025-08-08,Rohan Kulkarni,Nagpur,Laptop,Electronics,4,55000.0
+1620,2025-02-10,Neha Kulkarni,Aurangabad,Pen Pack,Stationery,2,80.0
+1976,2025-08-19,Aarav Joshi,Nashik,Notebook,Stationery,5,120.0
+2008,2025-05-24,Aarav Jadhav,Nashik,Headphones,Electronics,5,2500.0
+1711,2025-08-19,Omkar Joshi,Nashik,Smartphone,Electronics,1,22000.0
+1949,2025-10-15,Aarav Patil,Mumbai,Backpack,Accessories,5,1800.0
+1739,2025-01-21,Karan Shinde,Pune,Office Chair,Furniture,4,7500.0
+1354,2025-12-20,Omkar Jadhav,Nashik,Office Chair,Furniture,3,7500.0
+2054,2025-03-15,Omkar Shinde,Mumbai,Laptop,Electronics,1,55000.0
+1848,2025-01-31,Rohan More,Nashik,Headphones,Electronics,1,2500.0
+1967,2025-02-03,Sneha Pawar,Nanded,Office Chair,Furniture,4,7500.0
+1524,2025-05-04,Omkar Deshmukh,Nanded,Smartphone,Electronics,1,22000.0
+2167,2025-10-31,Pooja Pawar,Nashik,Backpack,Accessories,3,1800.0
+1907,2025-11-07,Riya Patil,Mumbai,Office Chair,Furniture,4,7500.0
+2453,2025-02-03,Sneha More,Nanded,Headphones,Electronics,2,2500.0
+1286,2025-03-10,Aarav Jadhav,Nanded,Notebook,Stationery,3,120.0
+1738,2025-12-09,Karan Pawar,Mumbai,Smartphone,Electronics,5,22000.0
+2092,2025-02-05,Omkar Kulkarni,Nanded,Backpack,Accessories,4,1800.0
+1779,2025-07-12,Neha Jadhav,Nanded,Headphones,Electronics,1,2500.0
+1484,2025-10-12,Sneha Pawar,Nagpur,Headphones,Electronics,2,2500.0
+2363,2025-08-18,Neha Patil,Mumbai,Notebook,Stationery,3,120.0
+1837,2025-03-03,Pooja Pawar,Nagpur,Backpack,Accessories,1,1800.0
+1964,2025-12-31,Karan Joshi,Nashik,Backpack,Accessories,4,1800.0
+1376,2025-12-18,Pooja More,Aurangabad,Pen Pack,Stationery,1,80.0
+1842,2025-07-06,Neha More,Nashik,Notebook,Stationery,2,120.0
+1299,2025-09-20,Sneha Patil,Mumbai,Notebook,Stationery,5,120.0
+1827,2025-05-28,Riya Shinde,,Office Chair,Furniture,3,7500.0
+2273,2025-03-23,Isha Joshi,Pune,Office Chair,Furniture,3,7500.0
+2330,2025-10-08,Yash Shinde,Pune,Smartphone,Electronics,4,22000.0
+2288,2025-05-11,Isha Deshmukh,Mumbai,Pen Pack,Stationery,3,80.0
+1946,2025-02-04,Neha More,Aurangabad,Laptop,Electronics,3,55000.0
+1899,2025-08-19,Isha More,Nanded,Headphones,Electronics,3,2500.0
+1306,2025-11-10,Isha Pawar,Mumbai,Office Chair,Furniture,1,7500.0
+2434,2025-05-06,Pooja Shinde,Nanded,Headphones,Electronics,4,2500.0
+2044,2025-12-05,Sneha Pawar,Nanded,Headphones,Electronics,3,2500.0
+1044,2025-07-19,Isha Pawar,Nagpur,Laptop,Electronics,4,55000.0
+1122,2025-08-18,Aarav Deshmukh,Nagpur,Backpack,Accessories,2,1800.0
+2161,2025-07-20,Sneha More,Pune,Smartphone,Electronics,1,22000.0
+2068,2025-11-16,Aarav More,Nashik,Desk,Furniture,1,9500.0
+1715,2025-07-23,Karan More,Nashik,Desk,Furniture,2,9500.0
+2299,2025-01-11,Aarav Kulkarni,Pune,Office Chair,Furniture,4,7500.0
+1697,2025-09-11,Sneha Deshmukh,Nashik,Backpack,Accessories,3,1800.0
+2494,2025-04-09,Pooja Shinde,Aurangabad,Office Chair,Furniture,3,7500.0
+2440,2025-12-16,Karan More,Aurangabad,Notebook,Stationery,4,120.0
+1574,2025-07-16,Sneha Shinde,Mumbai,Desk,Furniture,5,9500.0
+2435,2025-01-01,Omkar More,Aurangabad,Laptop,Electronics,2,55000.0
+2251,2025-07-02,Neha Jadhav,Pune,Notebook,Stationery,2,120.0
+1471,2025-12-30,Riya Patil,Nagpur,Laptop,Electronics,1,55000.0
+1292,2025-08-12,Neha Pawar,Nashik,Notebook,Stationery,3,120.0
+1699,2025-07-26,Rohan Deshmukh,Nashik,Pen Pack,Stationery,4,80.0
+1624,2025-03-17,Yash Deshmukh,Pune,Headphones,Electronics,5,2500.0
+1034,2025-02-04,Aarav Jadhav,Pune,Office Chair,Furniture,5,7500.0
+1686,2025-01-24,Aarav Joshi,Aurangabad,Smartphone,Electronics,2,22000.0
+1001,2025-01-13,Isha Kulkarni,Mumbai,Smartphone,Electronics,2,22000.0
+1939,2025-04-13,Karan Joshi,Aurangabad,Office Chair,Furniture,1,7500.0
+2160,2025-12-11,Riya Kulkarni,Nashik,Notebook,Stationery,1,120.0
+2383,2025-09-22,Karan Patil,Nashik,Backpack,Accessories,2,1800.0
+2411,2025-02-04,Aarav Shinde,Nashik,Notebook,Stationery,5,120.0
+1226,2025-02-05,Sneha Patil,Pune,Pen Pack,Stationery,5,80.0
+2351,2025-12-20,Neha More,Pune,Notebook,Stationery,2,120.0
+2215,2025-01-17,Pooja Patil,Nashik,Smartphone,Electronics,1,22000.0
+2426,2025-04-03,Aarav Patil,Nagpur,Notebook,Stationery,4,120.0
+1244,2025-05-12,Rohan Joshi,Nanded,Headphones,Electronics,2,2500.0
+1267,2025-06-08,Omkar Kulkarni,Nagpur,Office Chair,Furniture,5,7500.0
+1886,2025-06-15,Sneha Patil,Aurangabad,Desk,Furniture,5,9500.0
+1787,2025-10-21,Yash Joshi,Mumbai,Headphones,Electronics,5,2500.0
+2437,2025-06-29,Rohan More,Pune,Pen Pack,Stationery,2,80.0
+1945,2025-05-26,Rohan More,Pune,Laptop,Electronics,4,55000.0
+2073,2025-06-25,Riya Joshi,Nanded,Laptop,Electronics,2,55000.0
+2229,2025-08-08,Rohan Deshmukh,Nashik,Desk,Furniture,3,9500.0
+2127,2025-04-01,Sneha Patil,Pune,Backpack,Accessories,3,1800.0
+2091,2025-06-20,Aarav More,Nagpur,Pen Pack,Stationery,2,80.0
+1810,2025-11-04,Neha Deshmukh,Pune,Backpack,Accessories,3,1800.0
+1023,2025-05-31,Neha Joshi,Nashik,Smartphone,Electronics,1,22000.0
+2420,2025-05-06,Yash Pawar,Pune,Office Chair,Furniture,5,7500.0
+1464,2025-10-16,Neha Jadhav,Nashik,Laptop,Electronics,1,55000.0
+2357,2025-10-27,Rohan Kulkarni,Nagpur,Backpack,Accessories,5,1800.0
+2375,2025-08-23,Riya Deshmukh,Nanded,Backpack,Accessories,5,1800.0
+1753,2025-03-11,Neha More,Aurangabad,Office Chair,Furniture,2,7500.0
+2278,2025-09-25,Yash More,Nashik,Smartphone,Electronics,1,22000.0
+1728,2025-04-10,Isha Pawar,Mumbai,Office Chair,Furniture,1,7500.0
+1854,2025-11-24,Karan Shinde,Aurangabad,Headphones,Electronics,5,2500.0
+1657,2025-08-30,Rohan Deshmukh,Aurangabad,Smartphone,Electronics,4,22000.0
+1865,2025-12-24,Pooja Joshi,Nanded,Headphones,Electronics,5,2500.0
+1470,2025-08-13,Omkar Jadhav,Pune,Smartphone,Electronics,3,22000.0
+1983,2025-01-02,Yash More,Pune,Office Chair,Furniture,4,7500.0
+1162,2025-01-02,Isha More,Nanded,Desk,Furniture,5,9500.0
+2399,2025-02-11,Riya Patil,Nashik,Pen Pack,Stationery,2,80.0
+1877,2025-04-07,Karan Patil,Mumbai,Backpack,Accessories,1,1800.0
+1898,2025-08-28,Isha Joshi,Pune,Notebook,Stationery,5,120.0
+2089,2025-11-24,Omkar More,Nashik,Smartphone,Electronics,3,22000.0
+1988,2025-01-29,Karan Patil,Mumbai,Headphones,Electronics,1,2500.0
+2445,2025-12-11,Riya Jadhav,Nashik,Backpack,Accessories,5,1800.0
+1929,2025-06-17,Pooja Kulkarni,Mumbai,Headphones,Electronics,1,2500.0
+1860,2025-08-31,Pooja Patil,Pune,Smartphone,Electronics,4,22000.0
+1968,2025-08-23,Rohan Shinde,Nashik,Notebook,Stationery,1,120.0
+2228,2025-12-18,Omkar Kulkarni,Nanded,Desk,Furniture,4,9500.0
+1527,2025-01-08,Isha Kulkarni,Pune,Smartphone,Electronics,1,22000.0
+1997,2025-09-24,Omkar Pawar,Mumbai,Backpack,Accessories,5,1800.0
+2485,2025-01-04,Karan Patil,Pune,Headphones,Electronics,3,2500.0
+2476,2025-10-26,Pooja Joshi,Mumbai,Desk,Furniture,4,9500.0
+2249,2025-10-30,Aarav Joshi,Nagpur,Laptop,Electronics,3,55000.0
+2234,2025-05-23,Yash More,Aurangabad,Backpack,Accessories,4,1800.0
+1689,2025-05-20,Neha Pawar,Nashik,Backpack,Accessories,2,1800.0
+2428,2025-03-03,Aarav Kulkarni,Mumbai,Pen Pack,Stationery,5,80.0
+1307,2025-02-07,Omkar Joshi,Aurangabad,Headphones,Electronics,4,2500.0
+1683,2025-11-26,Rohan Pawar,Nagpur,Desk,Furniture,3,9500.0
+1170,2025-12-12,Pooja Shinde,Nagpur,Notebook,Stationery,4,120.0
+2391,2025-04-20,Riya More,Nanded,Desk,Furniture,3,9500.0
+1355,2025-05-28,Riya Shinde,Nashik,Desk,Furniture,3,9500.0
+2495,2025-11-03,Neha Kulkarni,Pune,Notebook,Stationery,5,120.0
+1414,2025-10-16,Rohan Joshi,Pune,Laptop,Electronics,3,55000.0
+1963,2025-02-10,Omkar Joshi,Nanded,Notebook,Stationery,5,120.0
+1231,2025-09-20,Riya Jadhav,Nashik,Office Chair,Furniture,1,7500.0
+2071,2025-10-30,Sneha Pawar,Nagpur,Headphones,Electronics,2,2500.0
+1241,2025-09-26,Riya Shinde,Nagpur,Pen Pack,Stationery,3,80.0
+1400,2025-07-31,Isha More,Pune,Office Chair,Furniture,5,7500.0
+2272,2025-09-06,Pooja Shinde,Nashik,Backpack,Accessories,1,1800.0
+1206,2025-01-08,Karan Kulkarni,Nanded,Headphones,Electronics,3,2500.0
+2396,2025-06-29,Isha More,Aurangabad,Office Chair,Furniture,5,7500.0
+2133,2025-07-31,Rohan Shinde,Mumbai,Office Chair,Furniture,1,7500.0
+2244,2025-10-13,Isha Joshi,Nashik,Headphones,Electronics,4,2500.0
+2006,2025-09-24,Isha Jadhav,Nanded,Laptop,Electronics,-1,55000.0
+1291,2025-07-02,Aarav Jadhav,Nagpur,Desk,Furniture,1,9500.0
+1002,2025-12-13,Pooja Deshmukh,Nanded,Smartphone,Electronics,4,22000.0
+1329,2025-11-12,Neha Kulkarni,Mumbai,Pen Pack,Stationery,3,80.0
+2484,2025-09-04,Karan Shinde,Mumbai,Office Chair,Furniture,4,7500.0
+1927,2025-03-03,Rohan Patil,Aurangabad,Pen Pack,Stationery,4,80.0
+1404,2025-12-29,Sneha Pawar,Pune,Desk,Furniture,5,9500.0
+2013,2025-04-14,Riya Pawar,Nanded,Laptop,Electronics,1,55000.0
+1262,31/02/2025,Rohan Kulkarni,Mumbai,Notebook,Stationery,2,120.0
+1389,2025-07-15,Omkar Shinde,Nashik,Notebook,Stationery,1,120.0
+1145,2025-05-20,Pooja Pawar,Nashik,Pen Pack,Stationery,1,80.0
+1441,2025-06-12,Karan Deshmukh,Pune,Pen Pack,Stationery,1,80.0
+1843,2025-10-22,Rohan Deshmukh,Aurangabad,Headphones,Electronics,3,2500.0
+1641,2025-04-24,Rohan Kulkarni,Nagpur,Office Chair,Furniture,4,7500.0
+1187,2025-04-13,Sneha Jadhav,Nanded,Headphones,Electronics,5,
+2077,2025-09-01,Pooja Kulkarni,Nashik,Desk,Furniture,4,9500.0
+1356,2025-05-29,Aarav More,Aurangabad,Headphones,Electronics,1,2500.0
+1246,2025-12-15,Yash Jadhav,Aurangabad,Backpack,Accessories,3,1800.0
+1773,2025-12-06,Rohan Joshi,Nanded,Laptop,Electronics,2,55000.0
+1762,2025-04-10,Karan Pawar,Nashik,Smartphone,Electronics,-1,22000.0
+1435,2025-07-16,Sneha Deshmukh,Nanded,Notebook,Stationery,3,120.0
+1791,2025-07-30,Yash Joshi,Nanded,Office Chair,Furniture,2,7500.0
+1183,2025-11-07,Omkar More,Mumbai,Laptop,Electronics,5,55000.0
+2400,2025-04-20,Omkar Deshmukh,Nagpur,Backpack,Accessories,5,1800.0
+2244,2025-10-13,Isha Joshi,Nashik,Headphones,Electronics,4,2500.0
+1059,2025-12-18,Isha Pawar,Nagpur,Office Chair,Furniture,1,7500.0
+1444,2025-02-22,Aarav Deshmukh,Nagpur,Pen Pack,Stationery,5,80.0
+1361,2025-12-15,Sneha Patil,Nanded,Smartphone,Electronics,2,22000.0
+1960,2025-11-23,Isha Joshi,Mumbai,Backpack,Accessories,1,1800.0
+1050,2025-12-03,Yash Jadhav,Nagpur,Pen Pack,Stationery,2,80.0
+2337,2025-11-19,Neha Deshmukh,Pune,Pen Pack,Stationery,5,80.0
+2162,2025-05-22,Riya Joshi,Nashik,Headphones,Electronics,2,2500.0
+2300,2025-05-15,Sneha Patil,Nashik,Office Chair,Furniture,5,7500.0
+1934,2025-09-07,Neha Kulkarni,Nanded,Office Chair,Furniture,5,7500.0
+1396,2025-11-03,Aarav Kulkarni,Aurangabad,Backpack,Accessories,1,1800.0
+1740,2025-10-04,Isha Patil,Nanded,Desk,Furniture,3,9500.0
+1130,2025-10-11,Isha Joshi,Aurangabad,Laptop,Electronics,4,55000.0
+1215,2025-08-09,Omkar Kulkarni,Nashik,Office Chair,Furniture,3,7500.0
+1275,2025-02-20,Karan Joshi,Mumbai,Notebook,Stationery,1,120.0
+2037,2025-10-08,Sneha Pawar,Nashik,Office Chair,Furniture,1,7500.0
+1633,2025-01-29,Pooja Joshi,Pune,Notebook,Stationery,3,120.0
+1893,2025-07-02,Sneha Deshmukh,Mumbai,Laptop,Electronics,4,55000.0
+1235,2025-01-04,Omkar Shinde,Mumbai,Smartphone,Electronics,2,22000.0
+1831,31/02/2025,Rohan Jadhav,Mumbai,Office Chair,Furniture,1,7500.0
+1076,2025-07-06,Neha Deshmukh,Aurangabad,Office Chair,Furniture,3,7500.0
+1953,2025-01-16,Pooja More,Mumbai,Pen Pack,Stationery,2,80.0
+1473,2025-10-14,Neha Pawar,Mumbai,Notebook,Stationery,4,120.0
+2212,2025-03-07,  Sneha Kulkarni  ,Nagpur,Office Chair,Furniture,2,7500.0
+1239,2025-01-11,Karan Joshi,Nanded,Pen Pack,Stationery,4,80.0
+1957,2025-03-12,Isha Joshi,Nashik,Office Chair,Furniture,2,7500.0
+1989,2025-06-19,Riya Patil,Pune,Desk,Furniture,4,9500.0
+1734,2025-04-05,Pooja Deshmukh,Nanded,Office Chair,Furniture,2,7500.0
+2442,2025-01-09,Sneha Patil,Nanded,Notebook,Stationery,4,120.0
+1348,2025-08-03,Sneha Shinde,Aurangabad,Notebook,Stationery,2,120.0
+1242,2025-06-20,Sneha Deshmukh,Nanded,Office Chair,Furniture,1,7500.0
+2321,2025-08-15,Karan Pawar,Nashik,Laptop,Electronics,4,55000.0
+1572,2025-11-11,Yash Kulkarni,AURANGABAD,Laptop,Electronics,3,55000.0
+1437,2025-06-17,Aarav More,Nashik,Pen Pack,Stationery,4,80.0
+1578,2025-01-16,Isha Patil,Nashik,Office Chair,Furniture,5,7500.0
+2150,2025-11-18,Riya Shinde,Aurangabad,Laptop,Electronics,-1,55000.0
+1919,2025-09-23,Sneha More,Pune,Laptop,Electronics,3,55000.0
+1057,2025-05-16,Riya Deshmukh,Aurangabad,Headphones,Electronics,5,2500.0
+1502,2025-12-22,Karan Pawar,Nashik,Desk,Furniture,3,9500.0
+1639,2025-06-26,Sneha More,Aurangabad,Notebook,Stationery,1,120.0
+1349,2025-09-14,Yash Pawar,Aurangabad,Pen Pack,Stationery,1,80.0
+1383,2025-02-16,Pooja Pawar,Pune,Backpack,Accessories,4,1800.0
